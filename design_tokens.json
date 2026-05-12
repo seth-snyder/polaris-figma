@@ -124,7 +124,7 @@
   "brand": {
     "sun": {
       "$type": "color",
-      "$value": "#f8c426",
+      "$value": "#f8c429",
       "$description": "Accent color not suitable for text"
     },
     "fern": {
