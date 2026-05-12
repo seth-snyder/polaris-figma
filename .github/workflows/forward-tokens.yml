@@ -19,6 +19,7 @@ jobs:
           token: ${{ secrets.POLARIS_DISPATCH_TOKEN }}
       - name: Copy design tokens into polaris
         run: |
+          mkdir -p polaris-repo/web/themes/custom/polaris/src/figma
           cp design_tokens.json polaris-repo/web/themes/custom/polaris/src/figma/design_tokens.json
       - name: Commit and push to polaris
         run: |
