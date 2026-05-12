@@ -1,0 +1,40 @@
+ name: "Forward Design Tokens to Polaris"                                                                                          
+                                                                                                                                    
+  # Triggered when GitFig pushes a new design_tokens.json.
+  # Copies the file directly into teach-for-america/polaris on the development branch.                                              
+  # Style Dictionary processing is handled by sync_design_tokens.yml in polaris.                                                  
+
+  on:
+    push:
+      paths: ['design_tokens.json']                                                                                                 
+      branches: [main]
+    workflow_dispatch:                                                                                                              
+                                                                                                                                  
+  jobs:
+    forward-tokens:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout polaris-figma
+          uses: actions/checkout@v4
+                                                                                                                                    
+        - name: Checkout polaris
+          uses: actions/checkout@v4                                                                                                 
+          with:                                                                                                                   
+            repository: teach-for-america/polaris
+            ref: development
+            path: polaris-repo
+            token: ${{ secrets.POLARIS_DISPATCH_TOKEN }}
+                                                                                                                                    
+        - name: Copy design tokens into polaris
+          run: |                                                                                                                    
+            cp design_tokens.json \                                                                                               
+               polaris-repo/web/themes/custom/polaris/src/figma/design_tokens.json
+
+        - name: Commit and push to polaris
+          run: |                                                                                                                    
+            cd polaris-repo
+            git config user.email "github-actions[bot]@users.noreply.github.com"                                                    
+            git config user.name "github-actions[bot]"                                                                            
+            git add web/themes/custom/polaris/src/figma/design_tokens.json
+            git diff --staged --quiet || git commit -m "chore: update design tokens from Figma"                                     
+            git push
