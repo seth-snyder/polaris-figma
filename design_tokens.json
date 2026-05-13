@@ -2,7 +2,27 @@
   "text": {
     "body-large": {
       "$type": "string",
-      "$value": "[object Object]"
+      "$value": "[object Object]",
+      "font-size": {
+        "$type": "number",
+        "$value": 16
+      },
+      "font-family": {
+        "$type": "string",
+        "$value": "DM Sans"
+      },
+      "font-weight": {
+        "$type": "number",
+        "$value": 400
+      },
+      "line-height": {
+        "$type": "number",
+        "$value": 24
+      },
+      "letter-spacing": {
+        "$type": "number",
+        "$value": 0.5
+      }
     },
     "body-small": {
       "$type": "string",
