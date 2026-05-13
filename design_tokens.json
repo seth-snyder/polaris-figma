@@ -3,7 +3,7 @@
     "body-large": {
       "font-size": {
         "$type": "number",
-        "$value": 16
+        "$value": 24
       },
       "font-family": {
         "$type": "string",
