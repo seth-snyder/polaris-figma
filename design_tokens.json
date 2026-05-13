@@ -1,8 +1,6 @@
 {
   "text": {
     "body-large": {
-      "$type": "string",
-      "$value": "[object Object]",
       "font-size": {
         "$type": "number",
         "$value": 16
