@@ -15,7 +15,7 @@
       },
       "line-height": {
         "$type": "number",
-        "$value": 24
+        "$value": 20
       },
       "letter-spacing": {
         "$type": "number",
