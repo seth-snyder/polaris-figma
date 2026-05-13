@@ -3,7 +3,7 @@
     "body-large": {
       "font-size": {
         "$type": "number",
-        "$value": 24
+        "$value": 16
       },
       "font-family": {
         "$type": "string",
@@ -15,7 +15,7 @@
       },
       "line-height": {
         "$type": "number",
-        "$value": 20
+        "$value": 24
       },
       "letter-spacing": {
         "$type": "number",
