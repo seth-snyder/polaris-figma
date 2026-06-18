@@ -139,6 +139,44 @@
       "$value": "[object Object]"
     }
   },
+  "Brand": {
+    "deep navy": {
+      "$type": "color",
+      "$value": "#00225a"
+    },
+    "power red": {
+      "$type": "color",
+      "$value": "#ef322d"
+    },
+    "pure white": {
+      "$type": "color",
+      "$value": "#ffffff"
+    },
+    "soft stone": {
+      "$type": "color",
+      "$value": "#8b8a86"
+    },
+    "warm cream": {
+      "$type": "color",
+      "$value": "#ffeed4"
+    },
+    "dark maroon": {
+      "$type": "color",
+      "$value": "#4b0000"
+    },
+    "charcoal grey": {
+      "$type": "color",
+      "$value": "#424039"
+    },
+    "midnight black": {
+      "$type": "color",
+      "$value": "#110e05"
+    },
+    "breakthrough blue": {
+      "$type": "color",
+      "$value": "#76cee1"
+    }
+  },
   "brand": {
     "sun": {
       "$type": "color",
@@ -214,6 +252,74 @@
       "$type": "color",
       "$value": "#0058ac",
       "$description": "Element focus color"
+    }
+  },
+  "Corner": {
+    "Full": {
+      "$type": "number",
+      "$value": 1000
+    },
+    "None": {
+      "$type": "number",
+      "$value": 0
+    },
+    "Large": {
+      "$type": "number",
+      "$value": 16
+    },
+    "Small": {
+      "$type": "number",
+      "$value": 8
+    },
+    "Medium": {
+      "$type": "number",
+      "$value": 12
+    },
+    "Extra-large": {
+      "$type": "number",
+      "$value": 28
+    },
+    "Extra-small": {
+      "$type": "number",
+      "$value": 4
+    },
+    "Large-increased": {
+      "$type": "number",
+      "$value": 20
+    },
+    "Extra-extra-large": {
+      "$type": "number",
+      "$value": 48
+    },
+    "Extra-large-increased": {
+      "$type": "number",
+      "$value": 32
+    }
+  },
+  "Scales": {
+    "deep navy": {
+      "20": {
+        "$type": "color",
+        "$value": "#112e65"
+      }
+    },
+    "dark maroon": {
+      "20": {
+        "$type": "color",
+        "$value": "#621009"
+      }
+    },
+    "midnight black": {
+      "30": {
+        "$type": "color",
+        "$value": "#4b4639"
+      }
+    },
+    "breakthrough blue": {
+      "90": {
+        "$type": "color",
+        "$value": "#a4eeff"
+      }
     }
   },
   "corner": {
@@ -434,6 +540,280 @@
       }
     }
   },
+  "Combo 1": {
+    "Heading": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:126",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Surface": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:125",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "On surface": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:126",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Link: Hover": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2933:144",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Link: Default": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:127",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "bttn surface: Hover": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2933:144",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Bttn surface: Default": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:127",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Bttn on surface: Hover": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2933:143",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Bttn on surface: Default": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:125",
+        "type": "VARIABLE_ALIAS"
+      }
+    }
+  },
+  "Combo 2": {
+    "Heading": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:126",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Surface": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:122",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "On surface": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:126",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Link: Hover": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2933:144",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Link: Default": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:127",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "bttn surface: Hover": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2933:144",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Bttn surface: Default": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:127",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Bttn on surface: Hover": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2942:100",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Bttn on surface: Default": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:122",
+        "type": "VARIABLE_ALIAS"
+      }
+    }
+  },
+  "Combo 3": {
+    "Heading": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2950:116",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Surface": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:127",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "On surface": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2950:116",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Link: Hover": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2933:143",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Link: Default": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:125",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "bttn surface: Hover": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2933:143",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Bttn surface: Default": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:125",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Bttn on surface: Hover": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2933:144",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Bttn on surface: Default": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:127",
+        "type": "VARIABLE_ALIAS"
+      }
+    }
+  },
+  "Combo 4": {
+    "Heading": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2950:116",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Surface": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:127",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "On surface": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2950:116",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Link: Hover": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2942:100",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Link: Default": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:122",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "bttn surface: Hover": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2942:100",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Bttn surface: Default": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:122",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Bttn on surface: Hover": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2933:144",
+        "type": "VARIABLE_ALIAS"
+      }
+    },
+    "Bttn on surface: Default": {
+      "$type": "color",
+      "$value": {
+        "id": "VariableID:2912:127",
+        "type": "VARIABLE_ALIAS"
+      }
+    }
+  },
+  "Spacing": {
+    "Layout": {
+      "Element": {
+        "$type": "number",
+        "$value": 0
+      }
+    },
+    "Element": {
+      "Element": {
+        "$type": "number",
+        "$value": 0
+      }
+    }
+  },
   "spacing": {
     "lg": {
       "$type": "number",
@@ -502,6 +882,154 @@
       }
     }
   },
+  "Attributes": {
+    "Family": {
+      "Fixed": {
+        "$type": "string",
+        "$value": "Circular XX"
+      },
+      "Variable": {
+        "$type": "string",
+        "$value": "Boldine"
+      }
+    },
+    "Weight": {
+      "Bold": {
+        "$type": "string",
+        "$value": "Bold"
+      },
+      "Book": {
+        "$type": "string",
+        "$value": "Book"
+      },
+      "Medium": {
+        "$type": "string",
+        "$value": "Medium"
+      }
+    }
+  },
+  "textStyles": {
+    "Body Large": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": 16,
+        "textCase": "ORIGINAL",
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 24
+        },
+        "letterSpacing": {
+          "unit": "PIXELS",
+          "value": 0.5
+        },
+        "textDecoration": "NONE"
+      },
+      "$description": "Body styles are used for longer passages of text in your app.\n\nUse typefaces intended for body styles, which are readable at smaller sizes and can be comfortably read in longer passages."
+    },
+    "Label Large": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": 14,
+        "textCase": "ORIGINAL",
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 20
+        },
+        "letterSpacing": {
+          "unit": "PIXELS",
+          "value": 0.10000000149011612
+        },
+        "textDecoration": "NONE"
+      },
+      "$description": "Label styles are smaller, utilitarian styles, used for things like the text inside components or for very small text in the content body, such as captions.\n\nButtons, for example, use the label large style."
+    },
+    "Quote Large": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": 36,
+        "textCase": "ORIGINAL",
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 44
+        },
+        "letterSpacing": {
+          "unit": "PIXELS",
+          "value": 0.5
+        },
+        "textDecoration": "NONE"
+      },
+      "$description": "Quote styles are used to highlight short excerpts of text in your app."
+    },
+    "Title Large": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": 22,
+        "textCase": "ORIGINAL",
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 28
+        },
+        "letterSpacing": {
+          "unit": "PIXELS",
+          "value": 0
+        },
+        "textDecoration": "NONE"
+      },
+      "$description": "Plays a single role and corresponds to Paragraph on the Marketing Design GSFT definitions for any screen, regardless of size. The default weight treatment is regular."
+    },
+    "Display Large": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": 56,
+        "textCase": "ORIGINAL",
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 64
+        },
+        "letterSpacing": {
+          "unit": "PIXELS",
+          "value": -0.25
+        },
+        "textDecoration": "NONE"
+      },
+      "$description": "As the largest text on the screen, display styles are reserved for short, important text or numerals. They work best on large screens."
+    },
+    "Headline Large": {
+      "$type": "typography",
+      "$value": {
+        "fontSize": 32,
+        "textCase": "ORIGINAL",
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 40
+        },
+        "letterSpacing": {
+          "unit": "PIXELS",
+          "value": 0
+        },
+        "textDecoration": "NONE"
+      },
+      "$description": "Headlines are best-suited for short, high-emphasis text on smaller screens. These styles can be good for marking primary passages of text or important regions of content."
+    }
+  },
+  "colorStyles": {
+    "haze": {
+      "$type": "color",
+      "$value": "#efedea"
+    }
+  },
   "border-radius": {
     "lg": {
       "$type": "number",
@@ -518,6 +1046,218 @@
     "full": {
       "$type": "number",
       "$value": 9999
+    }
+  },
+  "Typography Role": {
+    "Body Large": {
+      "Size": {
+        "$type": "number",
+        "$value": 16
+      },
+      "Family": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:159",
+          "type": "VARIABLE_ALIAS"
+        }
+      },
+      "Height": {
+        "$type": "number",
+        "$value": 24
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "Weight-baseline": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:158",
+          "type": "VARIABLE_ALIAS"
+        }
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:161",
+          "type": "VARIABLE_ALIAS"
+        }
+      }
+    },
+    "Label Large": {
+      "Size": {
+        "$type": "number",
+        "$value": 14
+      },
+      "Family": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:159",
+          "type": "VARIABLE_ALIAS"
+        }
+      },
+      "Height": {
+        "$type": "number",
+        "$value": 20
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0.10000000149011612
+      },
+      "Weight-baseline": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:158",
+          "type": "VARIABLE_ALIAS"
+        }
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:161",
+          "type": "VARIABLE_ALIAS"
+        }
+      }
+    },
+    "Quote Large": {
+      "Size": {
+        "$type": "number",
+        "$value": 36
+      },
+      "Family": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:159",
+          "type": "VARIABLE_ALIAS"
+        }
+      },
+      "Height": {
+        "$type": "number",
+        "$value": 44
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "Weight-baseline": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:158",
+          "type": "VARIABLE_ALIAS"
+        }
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:162",
+          "type": "VARIABLE_ALIAS"
+        }
+      }
+    },
+    "Title Large": {
+      "Size": {
+        "$type": "number",
+        "$value": 22
+      },
+      "Family": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:159",
+          "type": "VARIABLE_ALIAS"
+        }
+      },
+      "Height": {
+        "$type": "number",
+        "$value": 28
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0
+      },
+      "Weight-baseline": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:158",
+          "type": "VARIABLE_ALIAS"
+        }
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:161",
+          "type": "VARIABLE_ALIAS"
+        }
+      }
+    },
+    "Display Large": {
+      "Size": {
+        "$type": "number",
+        "$value": 56
+      },
+      "Family": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:159",
+          "type": "VARIABLE_ALIAS"
+        }
+      },
+      "Height": {
+        "$type": "number",
+        "$value": 64
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": -0.25
+      },
+      "Weight-baseline": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:158",
+          "type": "VARIABLE_ALIAS"
+        }
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:162",
+          "type": "VARIABLE_ALIAS"
+        }
+      }
+    },
+    "Headline Large": {
+      "Size": {
+        "$type": "number",
+        "$value": 32
+      },
+      "Family": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:159",
+          "type": "VARIABLE_ALIAS"
+        }
+      },
+      "Height": {
+        "$type": "number",
+        "$value": 40
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0
+      },
+      "Weight-baseline": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:158",
+          "type": "VARIABLE_ALIAS"
+        }
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": {
+          "id": "VariableID:2912:162",
+          "type": "VARIABLE_ALIAS"
+        }
+      }
     }
   }
 }
