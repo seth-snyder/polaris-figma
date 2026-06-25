@@ -2232,7 +2232,7 @@
       },
       "Surface": {
         "$type": "color",
-        "$value": "#ef322d"
+        "$value": "#ef322e"
       },
       "On surface": {
         "$type": "color",
