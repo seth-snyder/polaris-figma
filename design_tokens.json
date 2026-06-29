@@ -1,144 +1,4 @@
 {
-  "text": {
-    "body-large": {
-      "font-size": {
-        "$type": "number",
-        "$value": 16
-      },
-      "font-family": {
-        "$type": "string",
-        "$value": "DM Sans"
-      },
-      "font-weight": {
-        "$type": "number",
-        "$value": 400
-      },
-      "line-height": {
-        "$type": "number",
-        "$value": 24
-      },
-      "letter-spacing": {
-        "$type": "number",
-        "$value": 0.5
-      }
-    },
-    "body-small": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "body-medium": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "label-large": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "label-small": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "title-large": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "title-small": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "label-medium": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "title-medium": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "display-large": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "display-small": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "display-medium": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "headline-large": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "headline-small": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "headline-medium": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "body-large-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "body-small-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "body-medium-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "label-large-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "label-small-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "title-large-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "title-small-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "label-medium-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "title-medium-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "display-large-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "display-small-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "display-medium-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "headline-large-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "headline-small-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    },
-    "headline-medium-emphasized": {
-      "$type": "string",
-      "$value": "[object Object]"
-    }
-  },
   "Brand": {
     "deep navy": {
       "$type": "color",
@@ -175,83 +35,6 @@
     "breakthrough blue": {
       "$type": "color",
       "$value": "#76cee1"
-    }
-  },
-  "brand": {
-    "sun": {
-      "$type": "color",
-      "$value": "#f8c428",
-      "$description": "Accent color not suitable for text"
-    },
-    "fern": {
-      "$type": "color",
-      "$value": "#03a64a",
-      "$description": "Accent color not suitable for text"
-    },
-    "haze": {
-      "$type": "color",
-      "$value": "#efedea",
-      "$description": "Lightest neutral, surface dim color"
-    },
-    "lime": {
-      "$type": "color",
-      "$value": "#9cd91a",
-      "$description": "Interaction primary on dark theme, accent color on light"
-    },
-    "myst": {
-      "$type": "color",
-      "$value": "#d7d2cb",
-      "$description": "Punchy neutral, surface variant seed color"
-    },
-    "black": {
-      "$type": "color",
-      "$value": "#000000",
-      "$description": "Primary text color on light theme"
-    },
-    "error": {
-      "$type": "color",
-      "$value": "#9c000c",
-      "$description": "Alerts the user of an error"
-    },
-    "grape": {
-      "$type": "color",
-      "$value": "#a71ad9",
-      "$description": "Accent color use sparingly for expressive text"
-    },
-    "moshi": {
-      "$type": "color",
-      "$value": "#4b4b4b",
-      "$description": "Disabled state on light and dark neutral"
-    },
-    "white": {
-      "$type": "color",
-      "$value": "#ffffff",
-      "$description": "Primary text color on dark theme"
-    },
-    "success": {
-      "$type": "color",
-      "$value": "#00581e",
-      "$description": "Communicates success to user"
-    },
-    "warning": {
-      "$type": "color",
-      "$value": "#ffd426",
-      "$description": "Alerts the user to call their attention"
-    },
-    "eggplant": {
-      "$type": "color",
-      "$value": "#68008c",
-      "$description": "Interaction primary on light theme"
-    },
-    "midnight": {
-      "$type": "color",
-      "$value": "#091f2c",
-      "$description": "Dark alternative for text or background"
-    },
-    "morrigan": {
-      "$type": "color",
-      "$value": "#0058ac",
-      "$description": "Element focus color"
     }
   },
   "Corner": {
@@ -374,182 +157,6 @@
       "$value": 32
     }
   },
-  "scheme": {
-    "light": {
-      "error": {
-        "$type": "color",
-        "$value": "#9c000c"
-      },
-      "scrim": {
-        "$type": "color",
-        "$value": "#000000"
-      },
-      "shadow": {
-        "$type": "color",
-        "$value": "#000000"
-      },
-      "outline": {
-        "$type": "color",
-        "$value": "#4b4b4b"
-      },
-      "primary": {
-        "$type": "color",
-        "$value": "#68008c"
-      },
-      "success": {
-        "$type": "color",
-        "$value": "#00581e"
-      },
-      "surface": {
-        "$type": "color",
-        "$value": "#f6f3f1"
-      },
-      "on-error": {
-        "$type": "color",
-        "$value": "#ffffff"
-      },
-      "tertiary": {
-        "$type": "color",
-        "$value": "#8400af"
-      },
-      "secondary": {
-        "$type": "color",
-        "$value": "#605063"
-      },
-      "background": {
-        "$type": "color",
-        "$value": "#ffffff"
-      },
-      "on-primary": {
-        "$type": "color",
-        "$value": "#ffffff"
-      },
-      "on-success": {
-        "$type": "color",
-        "$value": "#ffffff"
-      },
-      "on-surface": {
-        "$type": "color",
-        "$value": "#000000"
-      },
-      "on-tertiary": {
-        "$type": "color",
-        "$value": "#ffffff"
-      },
-      "surface-dim": {
-        "$type": "color",
-        "$value": "#efedea"
-      },
-      "on-secondary": {
-        "$type": "color",
-        "$value": "#ffffff"
-      },
-      "surface-tint": {
-        "$type": "color",
-        "$value": "#a71ad9"
-      },
-      "on-background": {
-        "$type": "color",
-        "$value": "#000000"
-      },
-      "surface-bright": {
-        "$type": "color",
-        "$value": "#fcf8f7"
-      },
-      "error-container": {
-        "$type": "color",
-        "$value": "#ffc0b9"
-      },
-      "inverse-primary": {
-        "$type": "color",
-        "$value": "#e5b6f2"
-      },
-      "inverse-surface": {
-        "$type": "color",
-        "$value": "#2f3131"
-      },
-      "outline-variant": {
-        "$type": "color",
-        "$value": "#7a7979"
-      },
-      "surface-variant": {
-        "$type": "color",
-        "$value": "#f0eae3"
-      },
-      "primary-container": {
-        "$type": "color",
-        "$value": "#e088ff"
-      },
-      "success-container": {
-        "$type": "color",
-        "$value": "#34c759"
-      },
-      "surface-container": {
-        "$type": "color",
-        "$value": "#f1edec"
-      },
-      "warning-container": {
-        "$type": "color",
-        "$value": "#ffd426"
-      },
-      "inverse-on-surface": {
-        "$type": "color",
-        "$value": "#fcf8f7"
-      },
-      "on-error-container": {
-        "$type": "color",
-        "$value": "#6d0006"
-      },
-      "on-surface-variant": {
-        "$type": "color",
-        "$value": "#303030"
-      },
-      "tertiary-container": {
-        "$type": "color",
-        "$value": "#f9d8ff"
-      },
-      "secondary-container": {
-        "$type": "color",
-        "$value": "#d5c0d7"
-      },
-      "on-primary-container": {
-        "$type": "color",
-        "$value": "#320046"
-      },
-      "on-success-container": {
-        "$type": "color",
-        "$value": "#00260a"
-      },
-      "on-warning-container": {
-        "$type": "color",
-        "$value": "#1d1b17"
-      },
-      "on-tertiary-container": {
-        "$type": "color",
-        "$value": "#670089"
-      },
-      "surface-container-low": {
-        "$type": "color",
-        "$value": "#f7f3f2"
-      },
-      "on-secondary-container": {
-        "$type": "color",
-        "$value": "#3a2c3d"
-      },
-      "surface-container-high": {
-        "$type": "color",
-        "$value": "#ebe7e6"
-      },
-      "surface-container-lowest": {
-        "$type": "color",
-        "$value": "#ffffff"
-      },
-      "surface-container-highest": {
-        "$type": "color",
-        "$value": "#e6e2e1"
-      }
-    }
-  },
   "Combo 1": {
     "Heading": {
       "$type": "color",
@@ -565,7 +172,8 @@
     },
     "Link: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Link: Default": {
       "$type": "color",
@@ -573,7 +181,8 @@
     },
     "bttn surface: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Bttn surface: Default": {
       "$type": "color",
@@ -581,7 +190,8 @@
     },
     "Bttn on surface: Hover": {
       "$type": "color",
-      "$value": "#112e65"
+      "$value": "#112e65",
+      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
     },
     "Bttn on surface: Default": {
       "$type": "color",
@@ -603,7 +213,8 @@
     },
     "Link: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Link: Default": {
       "$type": "color",
@@ -611,7 +222,8 @@
     },
     "bttn surface: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Bttn surface: Default": {
       "$type": "color",
@@ -619,7 +231,8 @@
     },
     "Bttn on surface: Hover": {
       "$type": "color",
-      "$value": "#621009"
+      "$value": "#621009",
+      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
     },
     "Bttn on surface: Default": {
       "$type": "color",
@@ -629,7 +242,8 @@
   "Combo 3": {
     "Heading": {
       "$type": "color",
-      "$value": "#343024"
+      "$value": "#343024",
+      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
     },
     "Surface": {
       "$type": "color",
@@ -637,11 +251,13 @@
     },
     "On surface": {
       "$type": "color",
-      "$value": "#343024"
+      "$value": "#343024",
+      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
     },
     "Link: Hover": {
       "$type": "color",
-      "$value": "#112e65"
+      "$value": "#112e65",
+      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
     },
     "Link: Default": {
       "$type": "color",
@@ -649,7 +265,8 @@
     },
     "bttn surface: Hover": {
       "$type": "color",
-      "$value": "#112e65"
+      "$value": "#112e65",
+      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
     },
     "Bttn surface: Default": {
       "$type": "color",
@@ -657,7 +274,8 @@
     },
     "Bttn on surface: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Bttn on surface: Default": {
       "$type": "color",
@@ -667,7 +285,8 @@
   "Combo 4": {
     "Heading": {
       "$type": "color",
-      "$value": "#343024"
+      "$value": "#343024",
+      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
     },
     "Surface": {
       "$type": "color",
@@ -675,11 +294,13 @@
     },
     "On surface": {
       "$type": "color",
-      "$value": "#343024"
+      "$value": "#343024",
+      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
     },
     "Link: Hover": {
       "$type": "color",
-      "$value": "#621009"
+      "$value": "#621009",
+      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
     },
     "Link: Default": {
       "$type": "color",
@@ -687,7 +308,8 @@
     },
     "bttn surface: Hover": {
       "$type": "color",
-      "$value": "#621009"
+      "$value": "#621009",
+      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
     },
     "Bttn surface: Default": {
       "$type": "color",
@@ -695,7 +317,8 @@
     },
     "Bttn on surface: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Bttn on surface: Default": {
       "$type": "color",
@@ -717,7 +340,8 @@
     },
     "Link: Hover": {
       "$type": "color",
-      "$value": "#112e65"
+      "$value": "#112e65",
+      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
     },
     "Link: Default": {
       "$type": "color",
@@ -725,7 +349,8 @@
     },
     "bttn surface: Hover": {
       "$type": "color",
-      "$value": "#112e65"
+      "$value": "#112e65",
+      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
     },
     "Bttn surface: Default": {
       "$type": "color",
@@ -733,11 +358,12 @@
     },
     "Bttn on surface: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#fff8f2",
+      "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
     },
     "Bttn on surface: Default": {
       "$type": "color",
-      "$value": "#76cee1"
+      "$value": "#ffeed4"
     }
   },
   "Combo 6": {
@@ -755,7 +381,8 @@
     },
     "Link: Hover": {
       "$type": "color",
-      "$value": "#621009"
+      "$value": "#621009",
+      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
     },
     "Link: Default": {
       "$type": "color",
@@ -763,7 +390,8 @@
     },
     "bttn surface: Hover": {
       "$type": "color",
-      "$value": "#621009"
+      "$value": "#621009",
+      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
     },
     "Bttn surface: Default": {
       "$type": "color",
@@ -771,17 +399,19 @@
     },
     "Bttn on surface: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#fff8f2",
+      "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
     },
     "Bttn on surface: Default": {
       "$type": "color",
-      "$value": "#76cee1"
+      "$value": "#ffeed4"
     }
   },
   "Combo 7": {
     "Heading": {
       "$type": "color",
-      "$value": "#4b4639"
+      "$value": "#4b4639",
+      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 30"
     },
     "Surface": {
       "$type": "color",
@@ -789,11 +419,13 @@
     },
     "On surface": {
       "$type": "color",
-      "$value": "#4b4639"
+      "$value": "#4b4639",
+      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 30"
     },
     "Link: Hover": {
       "$type": "color",
-      "$value": "#112e65"
+      "$value": "#112e65",
+      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
     },
     "Link: Default": {
       "$type": "color",
@@ -801,7 +433,8 @@
     },
     "bttn surface: Hover": {
       "$type": "color",
-      "$value": "#112e65"
+      "$value": "#112e65",
+      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
     },
     "Bttn surface: Default": {
       "$type": "color",
@@ -809,11 +442,12 @@
     },
     "Bttn on surface: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#faf8ff",
+      "$description": "Corresponds to MD3:E scales brand Deep Navy 98"
     },
     "Bttn on surface: Default": {
       "$type": "color",
-      "$value": "#76cee1"
+      "$value": "#ffffff"
     }
   },
   "Combo 8": {
@@ -831,7 +465,8 @@
     },
     "Link: Hover": {
       "$type": "color",
-      "$value": "#621009"
+      "$value": "#621009",
+      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
     },
     "Link: Default": {
       "$type": "color",
@@ -839,7 +474,8 @@
     },
     "bttn surface: Hover": {
       "$type": "color",
-      "$value": "#621009"
+      "$value": "#621009",
+      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
     },
     "Bttn surface: Default": {
       "$type": "color",
@@ -847,11 +483,12 @@
     },
     "Bttn on surface: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#fff8f6",
+      "$description": "Corresponds to MD3:E scales brand Dark Maroon 98"
     },
     "Bttn on surface: Default": {
       "$type": "color",
-      "$value": "#76cee1"
+      "$value": "#ffffff"
     }
   },
   "Combo 9": {
@@ -869,7 +506,8 @@
     },
     "Link: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Link: Default": {
       "$type": "color",
@@ -877,7 +515,8 @@
     },
     "bttn surface: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Bttn surface: Default": {
       "$type": "color",
@@ -885,7 +524,8 @@
     },
     "Bttn on surface: Hover": {
       "$type": "color",
-      "$value": "#494740"
+      "$value": "#494740",
+      "$description": "Corresponds to MD3:E scales neutrals Charcoal Grey 30"
     },
     "Bttn on surface: Default": {
       "$type": "color",
@@ -943,7 +583,8 @@
     },
     "Link: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Link: Default": {
       "$type": "color",
@@ -951,7 +592,8 @@
     },
     "bttn surface: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Bttn surface: Default": {
       "$type": "color",
@@ -959,7 +601,8 @@
     },
     "Bttn on surface: Hover": {
       "$type": "color",
-      "$value": "#494740"
+      "$value": "#494740",
+      "$description": "Corresponds to MD3:E scales neutrals Charcoal Grey 30"
     },
     "Bttn on surface: Default": {
       "$type": "color",
@@ -981,7 +624,8 @@
     },
     "Link: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Link: Default": {
       "$type": "color",
@@ -989,7 +633,8 @@
     },
     "bttn surface: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Bttn surface: Default": {
       "$type": "color",
@@ -997,7 +642,8 @@
     },
     "Bttn on surface: Hover": {
       "$type": "color",
-      "$value": "#343024"
+      "$value": "#343024",
+      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
     },
     "Bttn on surface: Default": {
       "$type": "color",
@@ -1019,7 +665,8 @@
     },
     "Link: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Link: Default": {
       "$type": "color",
@@ -1027,7 +674,8 @@
     },
     "bttn surface: Hover": {
       "$type": "color",
-      "$value": "#a4eeff"
+      "$value": "#a4eeff",
+      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
     },
     "Bttn surface: Default": {
       "$type": "color",
@@ -1035,7 +683,8 @@
     },
     "Bttn on surface: Hover": {
       "$type": "color",
-      "$value": "#343024"
+      "$value": "#343024",
+      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
     },
     "Bttn on surface: Default": {
       "$type": "color",
@@ -1114,6 +763,254 @@
       }
     }
   },
+  "Card Combos": {
+    "Combo 1": {
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
+    "Combo 2": {
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
+    "Combo 3": {
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
+    "Combo 4": {
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
+    "Combo 5": {
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
+    "Combo 6": {
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    }
+  },
   "border-radius": {
     "lg": {
       "$type": "number",
@@ -1143,13 +1040,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 24
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 24
         },
         "letter-spacing": {
           "$type": "number",
@@ -1165,13 +1062,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 16
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 16
         },
         "letter-spacing": {
           "$type": "number",
@@ -1187,13 +1084,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 20
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 20
         },
         "letter-spacing": {
           "$type": "number",
@@ -1209,13 +1106,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 24
-        },
         "font-weight": {
           "$type": "number",
           "$value": 500
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 24
         },
         "letter-spacing": {
           "$type": "number",
@@ -1231,13 +1128,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 16
-        },
         "font-weight": {
           "$type": "number",
           "$value": 500
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 16
         },
         "letter-spacing": {
           "$type": "number",
@@ -1253,13 +1150,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 20
-        },
         "font-weight": {
           "$type": "number",
           "$value": 500
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 20
         },
         "letter-spacing": {
           "$type": "number",
@@ -1277,13 +1174,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 20
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 20
         },
         "letter-spacing": {
           "$type": "number",
@@ -1299,13 +1196,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 16
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 16
         },
         "letter-spacing": {
           "$type": "number",
@@ -1321,13 +1218,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 16
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 16
         },
         "letter-spacing": {
           "$type": "number",
@@ -1343,13 +1240,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 20
-        },
         "font-weight": {
           "$type": "number",
           "$value": 500
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 20
         },
         "letter-spacing": {
           "$type": "number",
@@ -1365,13 +1262,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 16
-        },
         "font-weight": {
           "$type": "number",
           "$value": 500
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 16
         },
         "letter-spacing": {
           "$type": "number",
@@ -1387,13 +1284,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 16
-        },
         "font-weight": {
           "$type": "number",
           "$value": 500
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 16
         },
         "letter-spacing": {
           "$type": "number",
@@ -1411,13 +1308,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 44
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 44
         },
         "letter-spacing": {
           "$type": "number",
@@ -1433,13 +1330,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 16
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 16
         },
         "letter-spacing": {
           "$type": "number",
@@ -1455,13 +1352,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 28
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 28
         },
         "letter-spacing": {
           "$type": "number",
@@ -1477,13 +1374,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 44
-        },
         "font-weight": {
           "$type": "number",
           "$value": 700
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 44
         },
         "letter-spacing": {
           "$type": "number",
@@ -1499,13 +1396,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 16
-        },
         "font-weight": {
           "$type": "number",
           "$value": 500
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 16
         },
         "letter-spacing": {
           "$type": "number",
@@ -1521,13 +1418,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 28
-        },
         "font-weight": {
           "$type": "number",
           "$value": 500
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 28
         },
         "letter-spacing": {
           "$type": "number",
@@ -1545,13 +1442,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 28
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 28
         },
         "letter-spacing": {
           "$type": "number",
@@ -1567,13 +1464,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 20
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 20
         },
         "letter-spacing": {
           "$type": "number",
@@ -1589,13 +1486,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 24
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 24
         },
         "letter-spacing": {
           "$type": "number",
@@ -1611,13 +1508,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 28
-        },
         "font-weight": {
           "$type": "number",
           "$value": 500
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 28
         },
         "letter-spacing": {
           "$type": "number",
@@ -1633,13 +1530,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 20
-        },
         "font-weight": {
           "$type": "number",
           "$value": 500
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 20
         },
         "letter-spacing": {
           "$type": "number",
@@ -1655,13 +1552,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 24
-        },
         "font-weight": {
           "$type": "number",
           "$value": 500
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 24
         },
         "letter-spacing": {
           "$type": "number",
@@ -1813,13 +1710,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 40
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 40
         },
         "letter-spacing": {
           "$type": "number",
@@ -1835,13 +1732,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 32
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 32
         },
         "letter-spacing": {
           "$type": "number",
@@ -1857,13 +1754,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 36
-        },
         "font-weight": {
           "$type": "number",
           "$value": 350
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 36
         },
         "letter-spacing": {
           "$type": "number",
@@ -1879,13 +1776,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 40
-        },
         "font-weight": {
           "$type": "number",
           "$value": 700
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 40
         },
         "letter-spacing": {
           "$type": "number",
@@ -1901,13 +1798,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 32
-        },
         "font-weight": {
           "$type": "number",
           "$value": 700
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 32
         },
         "letter-spacing": {
           "$type": "number",
@@ -1923,13 +1820,13 @@
           "$type": "string",
           "$value": "Circular XX"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 36
-        },
         "font-weight": {
           "$type": "number",
           "$value": 700
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 36
         },
         "letter-spacing": {
           "$type": "number",
@@ -1947,13 +1844,13 @@
           "$type": "string",
           "$value": "Boldine"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 76
-        },
         "font-weight": {
           "$type": "number",
           "$value": 400
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 76
         },
         "letter-spacing": {
           "$type": "number",
@@ -1969,13 +1866,13 @@
           "$type": "string",
           "$value": "Boldine"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 120
-        },
         "font-weight": {
           "$type": "number",
           "$value": 400
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 120
         },
         "letter-spacing": {
           "$type": "number",
@@ -1991,13 +1888,13 @@
           "$type": "string",
           "$value": "Boldine"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 240
-        },
         "font-weight": {
           "$type": "number",
           "$value": 400
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 240
         },
         "letter-spacing": {
           "$type": "number",
@@ -2013,13 +1910,13 @@
           "$type": "string",
           "$value": "Boldine"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 152
-        },
         "font-weight": {
           "$type": "number",
           "$value": 400
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 152
         },
         "letter-spacing": {
           "$type": "number",
@@ -2035,13 +1932,13 @@
           "$type": "string",
           "$value": "Boldine"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 66
-        },
         "font-weight": {
           "$type": "number",
           "$value": 400
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 66
         },
         "letter-spacing": {
           "$type": "number",
@@ -2057,13 +1954,13 @@
           "$type": "string",
           "$value": "Boldine"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 136
-        },
         "font-weight": {
           "$type": "number",
           "$value": 400
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 136
         },
         "letter-spacing": {
           "$type": "number",
@@ -2079,13 +1976,13 @@
           "$type": "string",
           "$value": "Boldine"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 200
-        },
         "font-weight": {
           "$type": "number",
           "$value": 400
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 200
         },
         "letter-spacing": {
           "$type": "number",
@@ -2101,13 +1998,13 @@
           "$type": "string",
           "$value": "Boldine"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 88
-        },
         "font-weight": {
           "$type": "number",
           "$value": 400
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 88
         },
         "letter-spacing": {
           "$type": "number",
@@ -2123,13 +2020,13 @@
           "$type": "string",
           "$value": "Boldine"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 104
-        },
         "font-weight": {
           "$type": "number",
           "$value": 400
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 104
         },
         "letter-spacing": {
           "$type": "number",
@@ -2145,13 +2042,13 @@
           "$type": "string",
           "$value": "Boldine"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 304
-        },
         "font-weight": {
           "$type": "number",
           "$value": 400
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 304
         },
         "letter-spacing": {
           "$type": "number",
@@ -2167,13 +2064,13 @@
           "$type": "string",
           "$value": "Boldine"
         },
-        "font-height": {
-          "$type": "number",
-          "$value": 176
-        },
         "font-weight": {
           "$type": "number",
           "$value": 400
+        },
+        "line-height": {
+          "$type": "number",
+          "$value": 176
         },
         "letter-spacing": {
           "$type": "number",
