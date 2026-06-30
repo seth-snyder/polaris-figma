@@ -1009,6 +1009,252 @@
         "$type": "color",
         "$value": "#00225a"
       }
+    },
+    "Combo 7": {
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
+    "Combo 8": {
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
+    "Combo 9": {
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
+    "Combo 10": {
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
+    "Combo 11": {
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
+    "Combo 12": {
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
     }
   },
   "border-radius": {
