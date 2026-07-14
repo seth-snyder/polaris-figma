@@ -1132,7 +1132,7 @@
       }
     },
     "Card Skin 6": {
-      "String": {
+      "Label": {
         "$type": "string",
         "$value": "Card Skin 6 - Warm Cream / Maroon Accents"
       },
@@ -1496,7 +1496,7 @@
     "Card Skin 14": {
       "Label": {
         "$type": "string",
-        "$value": "Card Skin 13 - Deep Navy / White"
+        "$value": "Card Skin 14 - Dark Maroon / White"
       },
       "Heading": {
         "$type": "color",
@@ -1504,7 +1504,7 @@
       },
       "Surface": {
         "$type": "color",
-        "$value": "#4b0014"
+        "$value": "#4b0000"
       },
       "On surface": {
         "$type": "color",
