@@ -1279,7 +1279,7 @@
       },
       "Surface": {
         "$type": "color",
-        "$value": "#00225a"
+        "$value": "#424039"
       },
       "On surface": {
         "$type": "color",
@@ -1305,7 +1305,7 @@
       },
       "Bttn on surface: Hover": {
         "$type": "color",
-        "$value": "#112e65",
+        "$value": "#494740",
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Bttn on surface: Default": {
@@ -1324,7 +1324,7 @@
       },
       "Surface": {
         "$type": "color",
-        "$value": "#4b0000"
+        "$value": "#424039"
       },
       "On surface": {
         "$type": "color",
@@ -1350,12 +1350,12 @@
       },
       "Bttn on surface: Hover": {
         "$type": "color",
-        "$value": "#621009",
+        "$value": "#494740",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Bttn on surface: Default": {
         "$type": "color",
-        "$value": "#4b0000"
+        "$value": "#424039"
       }
     },
     "Card Skin 11": {
@@ -1365,15 +1365,15 @@
       },
       "Heading": {
         "$type": "color",
-        "$value": "#ffffff"
+        "$value": "#ffeed4"
       },
       "Surface": {
         "$type": "color",
-        "$value": "#4b0000"
+        "$value": "#110e05"
       },
       "On surface": {
         "$type": "color",
-        "$value": "#ffffff"
+        "$value": "#ffeed4"
       },
       "Link: Hover": {
         "$type": "color",
@@ -1395,12 +1395,12 @@
       },
       "Bttn on surface: Hover": {
         "$type": "color",
-        "$value": "#621009",
+        "$value": "#343024",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Bttn on surface: Default": {
         "$type": "color",
-        "$value": "#4b0000"
+        "$value": "#110e05"
       }
     },
     "Card Skin 12": {
@@ -1440,12 +1440,12 @@
       },
       "Bttn on surface: Hover": {
         "$type": "color",
-        "$value": "#621009",
+        "$value": "#343024",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Bttn on surface: Default": {
         "$type": "color",
-        "$value": "#4b0000"
+        "$value": "#110e05"
       }
     },
     "Card Skin 13": {
@@ -1485,12 +1485,12 @@
       },
       "Bttn on surface: Hover": {
         "$type": "color",
-        "$value": "#621009",
+        "$value": "#112e65",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Bttn on surface: Default": {
         "$type": "color",
-        "$value": "#4b0000"
+        "$value": "#00225a"
       }
     },
     "Card Skin 14": {
