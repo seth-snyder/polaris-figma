@@ -32,22 +32,3 @@ jobs:
           git add web/themes/custom/polaris/src/figma/design_tokens.json
           git diff --staged --quiet || git commit -m "chore: update design tokens from Figma"
           git push
-
-      - name: Checkout tfa polaris-figma
-        uses: actions/checkout@v4
-        with:
-          repository: teach-for-america/polaris-figma
-          path: tfa-polaris-figma
-          token: ${{ secrets.POLARIS_DISPATCH_TOKEN }}
-
-      - name: Copy design tokens into tfa polaris-figma
-        run: cp design_tokens.json tfa-polaris-figma/design_tokens.json
-
-      - name: Commit and push to tfa polaris-figma
-        run: |
-          cd tfa-polaris-figma
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git config user.name "github-actions[bot]"
-          git add design_tokens.json
-          git diff --staged --quiet || git commit -m "chore: update design tokens from Figma"
-          git push
