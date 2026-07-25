@@ -24,6 +24,10 @@
       "$type": "color",
       "$value": "#4b0000"
     },
+    "light ivory": {
+      "$type": "color",
+      "$value": "#fef9ef"
+    },
     "charcoal grey": {
       "$type": "color",
       "$value": "#424039"
@@ -79,39 +83,105 @@
       "$value": 32
     }
   },
-  "Scales": {
-    "deep navy": {
-      "20": {
+  "System": {
+    "Dark": {
+      "Error": {
         "$type": "color",
-        "$value": "#112e65"
-      }
-    },
-    "soft stone": {
-      "90": {
-        "$type": "color",
-        "$value": "#e4e2dd"
-      }
-    },
-    "dark maroon": {
-      "20": {
-        "$type": "color",
-        "$value": "#621009"
-      }
-    },
-    "midnight black": {
-      "30": {
-        "$type": "color",
-        "$value": "#4b4639"
+        "$value": "#ffc0b9"
       },
-      "35": {
+      "Focus": {
         "$type": "color",
-        "$value": "#575245"
+        "$value": "#ffa753"
+      },
+      "Succes": {
+        "$type": "color",
+        "$value": "#8bd88f"
+      },
+      "On Error": {
+        "$type": "color",
+        "$value": "#6d0006"
+      },
+      "On Focus": {
+        "$type": "color",
+        "$value": "#110e05"
+      },
+      "On Success": {
+        "$type": "color",
+        "$value": "#003911"
+      },
+      "Error Container": {
+        "$type": "color",
+        "$value": "#9c000c"
+      },
+      "Success Container": {
+        "$type": "color",
+        "$value": "#34c759"
+      },
+      "Warning Container": {
+        "$type": "color",
+        "$value": "#ffd426"
+      },
+      "On Error Container": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "On Success Container": {
+        "$type": "color",
+        "$value": "#110e05"
+      },
+      "On Warning Container": {
+        "$type": "color",
+        "$value": "#110e05"
       }
     },
-    "breakthrough blue": {
-      "90": {
+    "Light": {
+      "Error": {
         "$type": "color",
-        "$value": "#a4eeff"
+        "$value": "#9c000c"
+      },
+      "Focus": {
+        "$type": "color",
+        "$value": "#0058ac"
+      },
+      "Succes": {
+        "$type": "color",
+        "$value": "#00581e"
+      },
+      "On Error": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "On Focus": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "On Success": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Error Container": {
+        "$type": "color",
+        "$value": "#ffc0b9"
+      },
+      "Success Container": {
+        "$type": "color",
+        "$value": "#34c759"
+      },
+      "Warning Container": {
+        "$type": "color",
+        "$value": "#ffd426"
+      },
+      "On Error Container": {
+        "$type": "color",
+        "$value": "#6d0006"
+      },
+      "On Success Container": {
+        "$type": "color",
+        "$value": "#110e05"
+      },
+      "On Warning Container": {
+        "$type": "color",
+        "$value": "#110e05"
       }
     }
   },
@@ -157,417 +227,6 @@
       "$value": 32
     }
   },
-  "Combo 1": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 1 - Deep Navy / Warm Cream"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#ffeed4"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#00225a"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#ffeed4"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#112e65",
-      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#00225a"
-    }
-  },
-  "Combo 2": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 2 - Dark Maroon / Warm Cream"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#ffeed4"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#4b0000"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#ffeed4"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#621009",
-      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#4b0000"
-    }
-  },
-  "Combo 3": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 3 - Breakthrough Blue / Navy Accents"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#343024",
-      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#343024",
-      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#112e65",
-      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#00225a"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#112e65",
-      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#00225a"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    }
-  },
-  "Combo 4": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 4 - Breakthrough Blue / Maroon Accents"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#343024",
-      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#343024",
-      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#621009",
-      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#4b0000"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#621009",
-      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#4b0000"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    }
-  },
-  "Combo 5": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 5 - Warm Cream / Navy Accents"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#4b4639"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#ffeed4"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#4b4639"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#112e65",
-      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#00225a"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#112e65",
-      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#00225a"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#fff8f2",
-      "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#ffeed4"
-    }
-  },
-  "Combo 6": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 6 - Warm Cream / Maroon Accents"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#4b4639"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#ffeed4"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#4b4639"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#621009",
-      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#4b0000"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#621009",
-      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#4b0000"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#fff8f2",
-      "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#ffeed4"
-    }
-  },
-  "Combo 7": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 7 - White / Navy Accents"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#4b4639",
-      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 30"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#4b4639",
-      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 30"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#112e65",
-      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#00225a"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#112e65",
-      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#00225a"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#faf8ff",
-      "$description": "Corresponds to MD3:E scales brand Deep Navy 98"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#ffffff"
-    }
-  },
-  "Combo 8": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 8 - White / Maroon Accents"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#4b4639"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#4b4639"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#621009",
-      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#4b0000"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#621009",
-      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#4b0000"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#fff8f6",
-      "$description": "Corresponds to MD3:E scales brand Dark Maroon 98"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#ffffff"
-    }
-  },
-  "Combo 9": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 9 - Charcoal Grey / Warm Cream"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#ffeed4"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#424039"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#ffeed4"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#494740",
-      "$description": "Corresponds to MD3:E scales neutrals Charcoal Grey 30"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#424039"
-    }
-  },
   "Spacing": {
     "Layout": {
       "Element": {
@@ -579,6 +238,779 @@
       "Element": {
         "$type": "number",
         "$value": 0
+      }
+    }
+  },
+  "Trigons": {
+    "Combo 2": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 2 - Dark Maroon / Warm Cream"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#4b0000"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#721c12",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#4b0000"
+      }
+    },
+    "Combo 3": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 3 - Breakthrough Blue / Navy Accents"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#343024",
+        "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#343024",
+        "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#1f3971",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#1f3971",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      }
+    },
+    "Combo 4": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 4 - Breakthrough Blue / Maroon Accents"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#343024",
+        "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#343024",
+        "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#721c12",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#4b0000"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#721c12",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#4b0000"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      }
+    },
+    "Combo 5": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 5 - Warm Cream / Navy Accents"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#1f3971",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#1f3971",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#fff8f2",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      }
+    },
+    "Combo 6": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 6 - Warm Cream / Maroon Accents"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#721c12",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#4b0000"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#721c12",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#4b0000"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#fff8f2",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      }
+    },
+    "Combo 7": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 7 - White / Navy Accents"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#4b4639",
+        "$description": "Corresponds to MD3:E scales neutrals Midnight Black 30"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#4b4639",
+        "$description": "Corresponds to MD3:E scales neutrals Midnight Black 30"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#1f3971",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#1f3971",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#faf8ff",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 98"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "Combo 8": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 8 - White / Maroon Accents"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#721c12",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#4b0000"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#721c12",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#4b0000"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#fff8f6",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 98"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "Combo 9": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 9 - Charcoal Grey / Warm Cream"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#424039"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#494740",
+        "$description": "Corresponds to MD3:E scales neutrals Charcoal Grey 30"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#424039"
+      }
+    },
+    "Combo 10": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 10 - Charcoal Grey / White"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#424039"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#494740",
+        "$description": "Corresponds to MD3:E scales neutrals Charcoal Grey 30"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#424039"
+      }
+    },
+    "Combo 11": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 11 - Midnight Black / Warm Cream"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#110e05"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#343024",
+        "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#110e05"
+      }
+    },
+    "Combo 12": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 12 - Midnight Black / White"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#110e05"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#343024",
+        "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#110e05"
+      }
+    },
+    "Combo 13": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 13 - Deep Navy / White"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
+    "Combo 14": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 14 - Dark Maroon / White"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#4b0000"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#621009",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#4b0000"
+      }
+    },
+    "Combo 15": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 15 - Light Ivory / Navy Accents"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#fef9ef"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#fef9ef"
+      }
+    },
+    "Combo 16": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 16 - Light Ivory / Maroon Accents"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#fef9ef"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#621009",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#4b0000"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#621009",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#4b0000"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#fef9ef"
+      }
+    },
+    "Combo 1a": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 1 - Deep Navy / Warm Cream"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#1f3971",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
+    "Combo 1b": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 1 - Deep Navy / Warm Cream"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#1f3971",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
       }
     }
   },
@@ -602,231 +1034,6 @@
     "xs": {
       "$type": "number",
       "$value": 4
-    }
-  },
-  "Combo 10": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 10 - Charcoal Grey / White"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#424039"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#494740",
-      "$description": "Corresponds to MD3:E scales neutrals Charcoal Grey 30"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#424039"
-    }
-  },
-  "Combo 11": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 11 - Midnight Black / Warm Cream"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#ffeed4"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#110e05"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#ffeed4"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#343024",
-      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#110e05"
-    }
-  },
-  "Combo 12": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 12 - Midnight Black / White"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#110e05"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#343024",
-      "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#110e05"
-    }
-  },
-  "Combo 13": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 13 - Deep Navy / White"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#00225a"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#112e65",
-      "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#00225a"
-    }
-  },
-  "Combo 14": {
-    "Label": {
-      "$type": "string",
-      "$value": "Combo 14 - Dark Maroon / White"
-    },
-    "Heading": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
-    "Surface": {
-      "$type": "color",
-      "$value": "#4b0000"
-    },
-    "On surface": {
-      "$type": "color",
-      "$value": "#ffffff"
-    },
-    "Link: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Link: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "bttn surface: Hover": {
-      "$type": "color",
-      "$value": "#a4eeff",
-      "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-    },
-    "Bttn surface: Default": {
-      "$type": "color",
-      "$value": "#76cee1"
-    },
-    "Bttn on surface: Hover": {
-      "$type": "color",
-      "$value": "#621009",
-      "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
-    },
-    "Bttn on surface: Default": {
-      "$type": "color",
-      "$value": "#4b0000"
     }
   },
   "elevation": {
@@ -1536,6 +1743,96 @@
       "Bttn on surface: Default": {
         "$type": "color",
         "$value": "#4b0000"
+      }
+    },
+    "Card Skin 15": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 15 - Light Ivory / Navy Accents"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#fef9ef"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#112e65",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#fef9ef"
+      }
+    },
+    "Card Skin 16": {
+      "Label": {
+        "$type": "string",
+        "$value": "Card Skin 16 - Light Ivory / Maroon Accents"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#fef9ef"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#621009",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#4b0000"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#621009",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#4b0000"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#fef9ef"
       }
     }
   },
@@ -2662,6 +2959,42 @@
       "On surface": {
         "$type": "color",
         "$value": "#ffeed4"
+      }
+    }
+  },
+  "Scales (incomplete)": {
+    "deep navy": {
+      "20": {
+        "$type": "color",
+        "$value": "#112e65"
+      }
+    },
+    "soft stone": {
+      "90": {
+        "$type": "color",
+        "$value": "#e4e2dd"
+      }
+    },
+    "dark maroon": {
+      "20": {
+        "$type": "color",
+        "$value": "#621009"
+      }
+    },
+    "midnight black": {
+      "30": {
+        "$type": "color",
+        "$value": "#4b4639"
+      },
+      "35": {
+        "$type": "color",
+        "$value": "#575245"
+      }
+    },
+    "breakthrough blue": {
+      "90": {
+        "$type": "color",
+        "$value": "#a4eeff"
       }
     }
   }
