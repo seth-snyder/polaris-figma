@@ -229,19 +229,92 @@
   },
   "Spacing": {
     "Layout": {
-      "Element": {
-        "$type": "number",
-        "$value": 0
+      "Padding": {
+        "Relaxed": {
+          "$type": "string",
+          "$value": "50"
+        },
+        "Gargantuan": {
+          "$type": "number",
+          "$value": 100
+        }
       }
     },
     "Element": {
-      "Element": {
-        "$type": "number",
-        "$value": 0
+      "Padding": {
+        "Fine": {
+          "$type": "string",
+          "$value": "10"
+        },
+        "Tiny": {
+          "$type": "string",
+          "$value": "24"
+        },
+        "Tight": {
+          "$type": "string",
+          "$value": "20"
+        },
+        "Trace": {
+          "$type": "string",
+          "$value": "4"
+        },
+        "Relaxed": {
+          "$type": "string",
+          "$value": "50"
+        },
+        "Comfortable": {
+          "$type": "number",
+          "$value": 40
+        }
       }
     }
   },
   "Trigons": {
+    "Combo 1": {
+      "Label": {
+        "$type": "string",
+        "$value": "Combo 1 - Deep Navy / Warm Cream"
+      },
+      "Heading": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#00225a"
+      },
+      "On surface": {
+        "$type": "color",
+        "$value": "#ffeed4"
+      },
+      "Link: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "bttn surface: Hover": {
+        "$type": "color",
+        "$value": "#a4eeff",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$type": "color",
+        "$value": "#76cee1"
+      },
+      "Bttn on surface: Hover": {
+        "$type": "color",
+        "$value": "#1f3971",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$type": "color",
+        "$value": "#00225a"
+      }
+    },
     "Combo 2": {
       "Label": {
         "$type": "string",
@@ -922,96 +995,6 @@
         "$type": "color",
         "$value": "#fef9ef"
       }
-    },
-    "Combo 1a": {
-      "Label": {
-        "$type": "string",
-        "$value": "Combo 1 - Deep Navy / Warm Cream"
-      },
-      "Heading": {
-        "$type": "color",
-        "$value": "#ffeed4"
-      },
-      "Surface": {
-        "$type": "color",
-        "$value": "#00225a"
-      },
-      "On surface": {
-        "$type": "color",
-        "$value": "#ffeed4"
-      },
-      "Link: Hover": {
-        "$type": "color",
-        "$value": "#a4eeff",
-        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-      },
-      "Link: Default": {
-        "$type": "color",
-        "$value": "#76cee1"
-      },
-      "bttn surface: Hover": {
-        "$type": "color",
-        "$value": "#a4eeff",
-        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-      },
-      "Bttn surface: Default": {
-        "$type": "color",
-        "$value": "#76cee1"
-      },
-      "Bttn on surface: Hover": {
-        "$type": "color",
-        "$value": "#1f3971",
-        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
-      },
-      "Bttn on surface: Default": {
-        "$type": "color",
-        "$value": "#00225a"
-      }
-    },
-    "Combo 1b": {
-      "Label": {
-        "$type": "string",
-        "$value": "Combo 1 - Deep Navy / Warm Cream"
-      },
-      "Heading": {
-        "$type": "color",
-        "$value": "#ffeed4"
-      },
-      "Surface": {
-        "$type": "color",
-        "$value": "#00225a"
-      },
-      "On surface": {
-        "$type": "color",
-        "$value": "#ffeed4"
-      },
-      "Link: Hover": {
-        "$type": "color",
-        "$value": "#a4eeff",
-        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-      },
-      "Link: Default": {
-        "$type": "color",
-        "$value": "#76cee1"
-      },
-      "bttn surface: Hover": {
-        "$type": "color",
-        "$value": "#a4eeff",
-        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
-      },
-      "Bttn surface: Default": {
-        "$type": "color",
-        "$value": "#76cee1"
-      },
-      "Bttn on surface: Hover": {
-        "$type": "color",
-        "$value": "#1f3971",
-        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
-      },
-      "Bttn on surface: Default": {
-        "$type": "color",
-        "$value": "#00225a"
-      }
     }
   },
   "spacing": {
@@ -1108,11 +1091,11 @@
       }
     }
   },
-  "Card Pairings": {
+  "Card Skins": {
     "Card Skin 1": {
       "Label": {
         "$type": "string",
-        "$value": "Card Skin 1 - Deep Navy / Warm Cream"
+        "$value": "161"
       },
       "Heading": {
         "$type": "color",
