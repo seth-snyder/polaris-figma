@@ -2891,7 +2891,7 @@
     "Text Combo 1": {
       "Heading": {
         "$type": "color",
-        "$value": "#ef322d"
+        "$value": "#ef322f"
       },
       "Surface": {
         "$type": "color",
