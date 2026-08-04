@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: teach-for-america/polaris
-          ref: development-s188
+          ref: web-1445-d
           path: polaris-repo
           token: ${{ secrets.POLARIS_DISPATCH_TOKEN }}
 
