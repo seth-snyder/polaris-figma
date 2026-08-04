@@ -1731,7 +1731,7 @@
     "Card Skin 15": {
       "Label": {
         "$type": "string",
-        "$value": "Combo 15 - Light Ivory / Navy Accents"
+        "$value": "Card Skin 15 - Light Ivory / Navy Accents"
       },
       "Heading": {
         "$type": "color",
