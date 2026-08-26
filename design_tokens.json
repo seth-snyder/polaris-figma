@@ -1095,7 +1095,7 @@
     "Card Skin 1": {
       "Label": {
         "$type": "string",
-        "$value": "Card Skin 1 - Deep Navy / Warm Cream "
+        "$value": "Card Skin 1 - Deep Navy / Warm Cream"
       },
       "Heading": {
         "$type": "color",
