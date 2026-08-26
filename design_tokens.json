@@ -1095,7 +1095,7 @@
     "Card Skin 1": {
       "Label": {
         "$type": "string",
-        "$value": "161"
+        "$value": "Card Skin 1 - Deep Navy / Warm Cream "
       },
       "Heading": {
         "$type": "color",
@@ -2950,6 +2950,10 @@
       "20": {
         "$type": "color",
         "$value": "#112e65"
+      },
+      "30": {
+        "$type": "color",
+        "$value": "#2c457d"
       }
     },
     "soft stone": {
