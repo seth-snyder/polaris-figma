@@ -2202,7 +2202,7 @@
   "Text Only Combos": {
     "Text Combo 1": {
       "Surface": {
-        "$value": "#4b000f",
+        "$value": "#4b0000",
         "$type": "color"
       },
       "On surface": {
