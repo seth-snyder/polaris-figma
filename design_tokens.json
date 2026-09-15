@@ -391,11 +391,11 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 64,
+          "$value": 64.4000015258789,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
@@ -413,7 +413,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 64,
+          "$value": 64.4000015258789,
           "$type": "number"
         },
         "font-weight": {
@@ -435,11 +435,11 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 52,
+          "$value": 51.91999816894531,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
@@ -457,7 +457,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 52,
+          "$value": 51.91999816894531,
           "$type": "number"
         },
         "font-weight": {
@@ -479,11 +479,11 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 44,
+          "$value": 39.599998474121094,
           "$type": "number"
         },
         "font-weight-baseline": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
@@ -501,7 +501,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 44,
+          "$value": 39.599998474121094,
           "$type": "number"
         },
         "font-weight-baseline": {
@@ -521,15 +521,15 @@
           "$type": "string"
         },
         "font-size": {
-          "$value": 32,
+          "$value": 30,
           "$type": "number"
         },
         "line-height": {
-          "$value": 40,
+          "$value": 33,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
@@ -543,11 +543,11 @@
           "$type": "string"
         },
         "font-size": {
-          "$value": 32,
+          "$value": 30,
           "$type": "number"
         },
         "line-height": {
-          "$value": 40,
+          "$value": 33,
           "$type": "number"
         },
         "font-weight": {
@@ -569,15 +569,15 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 36,
+          "$value": 30.799999237060547,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0,
+          "$value": -1,
           "$type": "number"
         }
       },
@@ -591,7 +591,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 36,
+          "$value": 29.399999618530273,
           "$type": "number"
         },
         "font-weight": {
@@ -599,7 +599,7 @@
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0,
+          "$value": -1,
           "$type": "number"
         }
       },
@@ -613,11 +613,11 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 32,
+          "$value": 30,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
@@ -635,7 +635,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 32,
+          "$value": 25.200000762939453,
           "$type": "number"
         },
         "font-weight": {
@@ -643,7 +643,7 @@
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0,
+          "$value": -1,
           "$type": "number"
         }
       }
@@ -659,11 +659,11 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 28,
+          "$value": 27.899999618530273,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
@@ -681,7 +681,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 28,
+          "$value": 27.899999618530273,
           "$type": "number"
         },
         "font-weight": {
@@ -699,19 +699,19 @@
           "$type": "string"
         },
         "font-size": {
-          "$value": 16,
+          "$value": 20,
           "$type": "number"
         },
         "line-height": {
-          "$value": 24,
+          "$value": 25,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0.15000000596046448,
+          "$value": 0,
           "$type": "number"
         }
       },
@@ -721,19 +721,19 @@
           "$type": "string"
         },
         "font-size": {
-          "$value": 16,
+          "$value": 20,
           "$type": "number"
         },
         "line-height": {
-          "$value": 24,
+          "$value": 25,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 500,
+          "$value": 700,
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0.15000000596046448,
+          "$value": 0,
           "$type": "number"
         }
       },
@@ -743,19 +743,19 @@
           "$type": "string"
         },
         "font-size": {
-          "$value": 14,
+          "$value": 16,
           "$type": "number"
         },
         "line-height": {
-          "$value": 20,
+          "$value": 23.200000762939453,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0.10000000149011612,
+          "$value": -0.20000000298023224,
           "$type": "number"
         }
       },
@@ -765,11 +765,11 @@
           "$type": "string"
         },
         "font-size": {
-          "$value": 14,
+          "$value": 16,
           "$type": "number"
         },
         "line-height": {
-          "$value": 20,
+          "$value": 23.200000762939453,
           "$type": "number"
         },
         "font-weight": {
@@ -777,7 +777,7 @@
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0.10000000149011612,
+          "$value": 0.20000000298023224,
           "$type": "number"
         }
       }
@@ -789,153 +789,19 @@
           "$type": "string"
         },
         "font-size": {
-          "$value": 14,
-          "$type": "number"
-        },
-        "line-height": {
-          "$value": 20,
-          "$type": "number"
-        },
-        "font-weight": {
-          "$value": 350,
-          "$type": "number"
-        },
-        "letter-spacing": {
-          "$value": 0.10000000149011612,
-          "$type": "number"
-        }
-      },
-      "Large Emphasized": {
-        "font-family": {
-          "$value": "Circular XX",
-          "$type": "string"
-        },
-        "font-size": {
-          "$value": 14,
-          "$type": "number"
-        },
-        "line-height": {
-          "$value": 20,
-          "$type": "number"
-        },
-        "font-weight": {
-          "$value": 500,
-          "$type": "number"
-        },
-        "letter-spacing": {
-          "$value": 0.10000000149011612,
-          "$type": "number"
-        }
-      },
-      "Medium": {
-        "font-family": {
-          "$value": "Circular XX",
-          "$type": "string"
-        },
-        "font-size": {
-          "$value": 12,
-          "$type": "number"
-        },
-        "line-height": {
-          "$value": 16,
-          "$type": "number"
-        },
-        "font-weight": {
-          "$value": 350,
-          "$type": "number"
-        },
-        "letter-spacing": {
-          "$value": 0.5,
-          "$type": "number"
-        }
-      },
-      "Medium Emphasized": {
-        "font-family": {
-          "$value": "Circular XX",
-          "$type": "string"
-        },
-        "font-size": {
-          "$value": 12,
-          "$type": "number"
-        },
-        "line-height": {
-          "$value": 16,
-          "$type": "number"
-        },
-        "font-weight": {
-          "$value": 500,
-          "$type": "number"
-        },
-        "letter-spacing": {
-          "$value": 0.5,
-          "$type": "number"
-        }
-      },
-      "Small": {
-        "font-family": {
-          "$value": "Circular XX",
-          "$type": "string"
-        },
-        "font-size": {
-          "$value": 10,
-          "$type": "number"
-        },
-        "line-height": {
-          "$value": 16,
-          "$type": "number"
-        },
-        "font-weight": {
-          "$value": 350,
-          "$type": "number"
-        },
-        "letter-spacing": {
-          "$value": 0.5,
-          "$type": "number"
-        }
-      },
-      "Small Emphasized": {
-        "font-family": {
-          "$value": "Circular XX",
-          "$type": "string"
-        },
-        "font-size": {
-          "$value": 10,
-          "$type": "number"
-        },
-        "line-height": {
-          "$value": 16,
-          "$type": "number"
-        },
-        "font-weight": {
-          "$value": 500,
-          "$type": "number"
-        },
-        "letter-spacing": {
-          "$value": 0.5,
-          "$type": "number"
-        }
-      }
-    },
-    "Body": {
-      "Large": {
-        "font-family": {
-          "$value": "Circular XX",
-          "$type": "string"
-        },
-        "font-size": {
           "$value": 16,
           "$type": "number"
         },
         "line-height": {
-          "$value": 24,
+          "$value": 19,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0.5,
+          "$value": 0,
           "$type": "number"
         }
       },
@@ -949,7 +815,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 24,
+          "$value": 19,
           "$type": "number"
         },
         "font-weight": {
@@ -957,7 +823,7 @@
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0.5,
+          "$value": 0,
           "$type": "number"
         }
       },
@@ -971,15 +837,15 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 20,
+          "$value": 17,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0.25,
+          "$value": 0.20000000298023224,
           "$type": "number"
         }
       },
@@ -993,7 +859,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 20,
+          "$value": 17,
           "$type": "number"
         },
         "font-weight": {
@@ -1001,7 +867,7 @@
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0.25,
+          "$value": 4,
           "$type": "number"
         }
       },
@@ -1015,11 +881,11 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 16,
+          "$value": 14,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
@@ -1037,7 +903,141 @@
           "$type": "number"
         },
         "line-height": {
+          "$value": 14,
+          "$type": "number"
+        },
+        "font-weight": {
+          "$value": 500,
+          "$type": "number"
+        },
+        "letter-spacing": {
+          "$value": 0.4000000059604645,
+          "$type": "number"
+        }
+      }
+    },
+    "Body": {
+      "Large": {
+        "font-family": {
+          "$value": "Circular XX",
+          "$type": "string"
+        },
+        "font-size": {
           "$value": 16,
+          "$type": "number"
+        },
+        "line-height": {
+          "$value": 23.200000762939453,
+          "$type": "number"
+        },
+        "font-weight": {
+          "$value": 450,
+          "$type": "number"
+        },
+        "letter-spacing": {
+          "$value": -2,
+          "$type": "number"
+        }
+      },
+      "Large Emphasized": {
+        "font-family": {
+          "$value": "Circular XX",
+          "$type": "string"
+        },
+        "font-size": {
+          "$value": 16,
+          "$type": "number"
+        },
+        "line-height": {
+          "$value": 23.200000762939453,
+          "$type": "number"
+        },
+        "font-weight": {
+          "$value": 500,
+          "$type": "number"
+        },
+        "letter-spacing": {
+          "$value": -2,
+          "$type": "number"
+        }
+      },
+      "Medium": {
+        "font-family": {
+          "$value": "Circular XX",
+          "$type": "string"
+        },
+        "font-size": {
+          "$value": 14,
+          "$type": "number"
+        },
+        "line-height": {
+          "$value": 18.600000381469727,
+          "$type": "number"
+        },
+        "font-weight": {
+          "$value": 450,
+          "$type": "number"
+        },
+        "letter-spacing": {
+          "$value": 0.25,
+          "$type": "number"
+        }
+      },
+      "Medium Emphasized": {
+        "font-family": {
+          "$value": "Circular XX",
+          "$type": "string"
+        },
+        "font-size": {
+          "$value": 14,
+          "$type": "number"
+        },
+        "line-height": {
+          "$value": 18.600000381469727,
+          "$type": "number"
+        },
+        "font-weight": {
+          "$value": 500,
+          "$type": "number"
+        },
+        "letter-spacing": {
+          "$value": 0.25,
+          "$type": "number"
+        }
+      },
+      "Small": {
+        "font-family": {
+          "$value": "Circular XX",
+          "$type": "string"
+        },
+        "font-size": {
+          "$value": 12,
+          "$type": "number"
+        },
+        "line-height": {
+          "$value": 15.899999618530273,
+          "$type": "number"
+        },
+        "font-weight": {
+          "$value": 450,
+          "$type": "number"
+        },
+        "letter-spacing": {
+          "$value": 0.4000000059604645,
+          "$type": "number"
+        }
+      },
+      "Small Emphasized": {
+        "font-family": {
+          "$value": "Circular XX",
+          "$type": "string"
+        },
+        "font-size": {
+          "$value": 12,
+          "$type": "number"
+        },
+        "line-height": {
+          "$value": 15.899999618530273,
           "$type": "number"
         },
         "font-weight": {
@@ -1061,11 +1061,11 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 44,
+          "$value": 47.900001525878906,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
@@ -1075,23 +1075,23 @@
       },
       "Large Emphasized": {
         "font-family": {
-          "$value": "Circular XX",
+          "$value": "Boldine",
           "$type": "string"
         },
         "font-size": {
-          "$value": 36,
+          "$value": 48,
           "$type": "number"
         },
         "line-height": {
-          "$value": 44,
+          "$value": 43.20000076293945,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 700,
+          "$value": 400,
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0.5,
+          "$value": 0,
           "$type": "number"
         }
       },
@@ -1105,11 +1105,11 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 28,
+          "$value": 29.299999237060547,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
@@ -1119,23 +1119,23 @@
       },
       "Medium Emphasized": {
         "font-family": {
-          "$value": "Circular XX",
+          "$value": "Boldine",
           "$type": "string"
         },
         "font-size": {
-          "$value": 22,
+          "$value": 40,
           "$type": "number"
         },
         "line-height": {
-          "$value": 28,
+          "$value": 32,
           "$type": "number"
         },
         "font-weight": {
-          "$value": 500,
+          "$value": 400,
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0.25,
+          "$value": 0,
           "$type": "number"
         }
       },
@@ -1153,7 +1153,7 @@
           "$type": "number"
         },
         "font-weight": {
-          "$value": 350,
+          "$value": 450,
           "$type": "number"
         },
         "letter-spacing": {
@@ -1185,6 +1185,72 @@
       }
     },
     "Editorial": {
+      "Ample": {
+        "font-family": {
+          "$value": "Boldine",
+          "$type": "string"
+        },
+        "font-size": {
+          "$value": 48,
+          "$type": "number"
+        },
+        "line-height": {
+          "$value": 38.400001525878906,
+          "$type": "number"
+        },
+        "font-weight": {
+          "$value": 400,
+          "$type": "number"
+        },
+        "letter-spacing": {
+          "$value": 0,
+          "$type": "number"
+        }
+      },
+      "Spacious": {
+        "font-family": {
+          "$value": "Boldine",
+          "$type": "string"
+        },
+        "font-size": {
+          "$value": 64,
+          "$type": "number"
+        },
+        "line-height": {
+          "$value": 51.20000076293945,
+          "$type": "number"
+        },
+        "font-weight": {
+          "$value": 400,
+          "$type": "number"
+        },
+        "letter-spacing": {
+          "$value": 0,
+          "$type": "number"
+        }
+      },
+      "Huge": {
+        "font-family": {
+          "$value": "Boldine",
+          "$type": "string"
+        },
+        "font-size": {
+          "$value": 80,
+          "$type": "number"
+        },
+        "line-height": {
+          "$value": 64,
+          "$type": "number"
+        },
+        "font-weight": {
+          "$value": 400,
+          "$type": "number"
+        },
+        "letter-spacing": {
+          "$value": 0,
+          "$type": "number"
+        }
+      },
       "Massive": {
         "font-family": {
           "$value": "Boldine",
@@ -1195,7 +1261,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 66,
+          "$value": 67.19999694824219,
           "$type": "number"
         },
         "font-weight": {
@@ -1203,7 +1269,7 @@
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": 0.5,
+          "$value": 0,
           "$type": "number"
         }
       },
@@ -1217,7 +1283,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 76,
+          "$value": 76.80000305175781,
           "$type": "number"
         },
         "font-weight": {
@@ -1239,7 +1305,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 88,
+          "$value": 89.5999984741211,
           "$type": "number"
         },
         "font-weight": {
@@ -1248,6 +1314,28 @@
         },
         "letter-spacing": {
           "$value": 0.15000000596046448,
+          "$type": "number"
+        }
+      },
+      "Colossal": {
+        "font-family": {
+          "$value": "Boldine",
+          "$type": "string"
+        },
+        "font-size": {
+          "$value": 120,
+          "$type": "number"
+        },
+        "line-height": {
+          "$value": 96,
+          "$type": "number"
+        },
+        "font-weight": {
+          "$value": 400,
+          "$type": "number"
+        },
+        "letter-spacing": {
+          "$value": 0,
           "$type": "number"
         }
       },
@@ -1261,7 +1349,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 104,
+          "$value": 102.4000015258789,
           "$type": "number"
         },
         "font-weight": {
@@ -1283,7 +1371,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 120,
+          "$value": 121.5999984741211,
           "$type": "number"
         },
         "font-weight": {
@@ -1305,7 +1393,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 136,
+          "$value": 134.39999389648438,
           "$type": "number"
         },
         "font-weight": {
@@ -1327,7 +1415,29 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 152,
+          "$value": 153.60000610351562,
+          "$type": "number"
+        },
+        "font-weight": {
+          "$value": 400,
+          "$type": "number"
+        },
+        "letter-spacing": {
+          "$value": 0,
+          "$type": "number"
+        }
+      },
+      "Celestial": {
+        "font-family": {
+          "$value": "Boldine",
+          "$type": "string"
+        },
+        "font-size": {
+          "$value": 200,
+          "$type": "number"
+        },
+        "line-height": {
+          "$value": 160,
           "$type": "number"
         },
         "font-weight": {
@@ -1349,7 +1459,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 176,
+          "$value": 179.1999969482422,
           "$type": "number"
         },
         "font-weight": {
@@ -1371,7 +1481,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 200,
+          "$value": 204.8000030517578,
           "$type": "number"
         },
         "font-weight": {
@@ -1393,7 +1503,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 240,
+          "$value": 243.1999969482422,
           "$type": "number"
         },
         "font-weight": {
@@ -1415,7 +1525,7 @@
           "$type": "number"
         },
         "line-height": {
-          "$value": 304,
+          "$value": 313.6000061035156,
           "$type": "number"
         },
         "font-weight": {
@@ -1498,7 +1608,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -1513,7 +1623,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo 1 - Deep Navy / Warm Cream",
+        "$value": "Combo 1 - Deep Navy /  Cream and Blue",
         "$type": "string"
       }
     },
@@ -1543,7 +1653,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -1558,7 +1668,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Combo 2 - Dark Maroon / Warm Cream",
+        "$value": "Combo 2 - Dark Maroon / Cream and Blue",
         "$type": "string"
       }
     },
@@ -1568,12 +1678,12 @@
         "$type": "color"
       },
       "On surface": {
-        "$value": "#343024",
+        "$value": "#474744",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
       },
       "Heading": {
-        "$value": "#343024",
+        "$value": "#474744",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
       },
@@ -1590,7 +1700,7 @@
         "$value": "#00225a",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#1f3971",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
@@ -1615,12 +1725,12 @@
         "$type": "color"
       },
       "On surface": {
-        "$value": "#343024",
+        "$value": "#474744",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
       },
       "Heading": {
-        "$value": "#343024",
+        "$value": "#474744",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
       },
@@ -1637,7 +1747,7 @@
         "$value": "#4b0000",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#721c12",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
@@ -1662,11 +1772,11 @@
         "$type": "color"
       },
       "On surface": {
-        "$value": "#4b4639",
+        "$value": "#474744",
         "$type": "color"
       },
       "Heading": {
-        "$value": "#4b4639",
+        "$value": "#474744",
         "$type": "color"
       },
       "Link: Default": {
@@ -1682,7 +1792,7 @@
         "$value": "#00225a",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#1f3971",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
@@ -1707,11 +1817,11 @@
         "$type": "color"
       },
       "On surface": {
-        "$value": "#4b4639",
+        "$value": "#474744",
         "$type": "color"
       },
       "Heading": {
-        "$value": "#4b4639",
+        "$value": "#474744",
         "$type": "color"
       },
       "Link: Default": {
@@ -1727,7 +1837,7 @@
         "$value": "#4b0000",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#721c12",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
@@ -1752,12 +1862,12 @@
         "$type": "color"
       },
       "On surface": {
-        "$value": "#4b4639",
+        "$value": "#474744",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales neutrals Midnight Black 30"
       },
       "Heading": {
-        "$value": "#4b4639",
+        "$value": "#474744",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales neutrals Midnight Black 30"
       },
@@ -1774,7 +1884,7 @@
         "$value": "#00225a",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#1f3971",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
@@ -1819,7 +1929,7 @@
         "$value": "#4b0000",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#721c12",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
@@ -1864,7 +1974,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -1879,7 +1989,7 @@
         "$description": "Corresponds to MD3:E scales neutrals Charcoal Grey 30"
       },
       "Label": {
-        "$value": "Combo 9 - Charcoal Grey / Warm Cream",
+        "$value": "Combo 9 - Charcoal Grey / Cream and Blue",
         "$type": "string"
       }
     },
@@ -1909,7 +2019,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -1924,7 +2034,7 @@
         "$description": "Corresponds to MD3:E scales neutrals Charcoal Grey 30"
       },
       "Label": {
-        "$value": "Combo 10 - Charcoal Grey / White",
+        "$value": "Combo 10 - Charcoal Grey / White and Blue",
         "$type": "string"
       }
     },
@@ -1954,7 +2064,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -1969,7 +2079,7 @@
         "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
       },
       "Label": {
-        "$value": "Combo 11 - Midnight Black / Warm Cream",
+        "$value": "Combo 11 - Midnight Black / Cream and Blue",
         "$type": "string"
       }
     },
@@ -1999,7 +2109,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -2014,7 +2124,7 @@
         "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
       },
       "Label": {
-        "$value": "Combo 12 - Midnight Black / White",
+        "$value": "Combo 12 - Midnight Black / White and Blue",
         "$type": "string"
       }
     },
@@ -2044,7 +2154,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -2059,7 +2169,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo 13 - Deep Navy / White",
+        "$value": "Combo 13 - Deep Navy / White and Blue",
         "$type": "string"
       }
     },
@@ -2089,7 +2199,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -2104,7 +2214,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Combo 14 - Dark Maroon / White",
+        "$value": "Combo 14 - Dark Maroon / White and Blue",
         "$type": "string"
       }
     },
@@ -2114,11 +2224,11 @@
         "$type": "color"
       },
       "On surface": {
-        "$value": "#4b4639",
+        "$value": "#474744",
         "$type": "color"
       },
       "Heading": {
-        "$value": "#4b4639",
+        "$value": "#474744",
         "$type": "color"
       },
       "Link: Default": {
@@ -2134,7 +2244,7 @@
         "$value": "#00225a",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#112e65",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
@@ -2159,11 +2269,11 @@
         "$type": "color"
       },
       "On surface": {
-        "$value": "#4b4639",
+        "$value": "#474744",
         "$type": "color"
       },
       "Heading": {
-        "$value": "#4b4639",
+        "$value": "#474744",
         "$type": "color"
       },
       "Link: Default": {
@@ -2179,7 +2289,7 @@
         "$value": "#4b0000",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#621009",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
@@ -2195,6 +2305,1448 @@
       },
       "Label": {
         "$value": "Combo 16 - Light Ivory / Maroon Accents",
+        "$type": "string"
+      }
+    },
+    "Combo 17": {
+      "Surface": {
+        "$value": "#1f3971",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo 17 - Deep Navy 25 / Cream and Blue",
+        "$type": "string"
+      }
+    },
+    "Combo 18": {
+      "Surface": {
+        "$value": "#721c12",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo 18 - Dark Maroon 25 / Warm Cream and Blue",
+        "$type": "string"
+      }
+    },
+    "Combo 19": {
+      "Surface": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#112e65",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo 19 - Deep Navy / Ivory and Blue",
+        "$type": "string"
+      }
+    },
+    "Combo 20": {
+      "Surface": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Label": {
+        "$value": "Combo 20 - Dark Maroon / Ivory and Blue",
+        "$type": "string"
+      }
+    },
+    "Combo 21": {
+      "Surface": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#112e65",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo 21 - Deep Navy / Blue and Cream",
+        "$type": "string"
+      }
+    },
+    "Combo 22": {
+      "Surface": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Label": {
+        "$value": "Combo 22 - Dark Maroon / Blue and Cream",
+        "$type": "string"
+      }
+    },
+    "Combo 23": {
+      "Surface": {
+        "$value": "#4b0023",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Label": {
+        "$value": "Combo 23 - Spare",
+        "$type": "string"
+      }
+    },
+    "Combo 24": {
+      "Surface": {
+        "$value": "#4b0024",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Label": {
+        "$value": "Combo 24 - Spare",
+        "$type": "string"
+      }
+    }
+  },
+  "Digons": {
+    "Combo 1": {
+      "Surface": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#ffeed4",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Bttn surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D1 - Deep Navy / Warm Cream Heading",
+        "$type": "string"
+      }
+    },
+    "Combo 2": {
+      "Surface": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#ffeed4",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Link: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Bttn surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D2 - Dark Maroon / Warm Cream Heading",
+        "$type": "string"
+      }
+    },
+    "Combo 3": {
+      "Surface": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D3 - Breakthrough Blue / Navy Only",
+        "$type": "string"
+      }
+    },
+    "Combo 4": {
+      "Surface": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D4 - Breakthrough Blue / Maroon Only",
+        "$type": "string"
+      }
+    },
+    "Combo 5": {
+      "Surface": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D5 - Light Ivory / Navy Only",
+        "$type": "string"
+      }
+    },
+    "Combo 6": {
+      "Surface": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#721c12",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D6 - Light Ivory / Maroon Only",
+        "$type": "string"
+      }
+    },
+    "Combo 7": {
+      "Surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#110e05",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D7 - Warm Cream / Navy and Blue Accents",
+        "$type": "string"
+      }
+    },
+    "Combo 8": {
+      "Surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#ef322d",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#110e05",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D8 - Warm Cream / Maroon and Red Accents",
+        "$type": "string"
+      }
+    },
+    "Combo 9": {
+      "Surface": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D9 - Dark Maroon / Warm Cream and Blue Accents",
+        "$type": "string"
+      }
+    },
+    "Combo 10": {
+      "Surface": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#ff5449",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D10 - Dark Maroon / Warm Cream and Red Accents",
+        "$type": "string"
+      }
+    },
+    "Combo 11": {
+      "Surface": {
+        "$value": "#ff5449",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#ff5449",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#ffdad5",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D11 - Power Red 60 / Maroon Only",
+        "$type": "string"
+      }
+    },
+    "Combo 12": {
+      "Surface": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D12 - Deep Navy / Breakthrough Blue Only",
+        "$type": "string"
+      }
+    },
+    "Combo 13": {
+      "Surface": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D13 - Dark Maroon / Breakthrough Blue Only",
+        "$type": "string"
+      }
+    },
+    "Combo 14": {
+      "Surface": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#ff5449",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D14 - Dark Maroon / Blue and Red Accents",
+        "$type": "string"
+      }
+    },
+    "Combo 15": {
+      "Surface": {
+        "$value": "#f1e0c7",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#474744",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#f1e0c7",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#ffeed4",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Combo D15 - Warm Cream 90 / Navy Accents",
+        "$type": "string"
+      }
+    },
+    "Combo 16": {
+      "Surface": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#ff5449",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#ff5449",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#ff5449",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#721c12",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#4b0000",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D16 - Dark Maroon / Warm Cream and Red 60 Accents",
+        "$type": "string"
+      }
+    },
+    "Combo 17": {
+      "Surface": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D17 - Deep Navy / Cream and Blue",
+        "$type": "string"
+      }
+    },
+    "Combo 18": {
+      "Surface": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#474744",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Combo D18 - Light Ivory / Navy Heading",
+        "$type": "string"
+      }
+    },
+    "Combo 19": {
+      "Surface": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn surface: Default": {
+        "$value": "#76cee1",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#a4eeff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#721c12",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Label": {
+        "$value": "Combo D19 - Dark Maroon / Breakthrough Blue Heading",
+        "$type": "string"
+      }
+    },
+    "Combo 20": {
+      "Surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#474744",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Combo D20 - Warm Cream / Maroon Heading",
+        "$type": "string"
+      }
+    },
+    "Combo 21": {
+      "Surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#474744",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Combo D21 - Warm Cream / Navy Heading",
+        "$type": "string"
+      }
+    },
+    "Combo 22": {
+      "Surface": {
+        "$value": "#ffee22",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#474744",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Combo D22 - Spare",
+        "$type": "string"
+      }
+    },
+    "Combo 23": {
+      "Surface": {
+        "$value": "#ffee23",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#474744",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Combo D23 - Spare",
+        "$type": "string"
+      }
+    },
+    "Combo 24": {
+      "Surface": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#474744",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#00225a",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#1f3971",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#ffeed4",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#fef9ef",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Combo D24 - Spare",
         "$type": "string"
       }
     }
@@ -2284,7 +3836,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -2329,7 +3881,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -2376,7 +3928,7 @@
         "$value": "#00225a",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#112e65",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
@@ -2423,7 +3975,7 @@
         "$value": "#4b0000",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#621009",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
@@ -2468,7 +4020,7 @@
         "$value": "#00225a",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#112e65",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
@@ -2513,7 +4065,7 @@
         "$value": "#4b0000",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#621009",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
@@ -2560,7 +4112,7 @@
         "$value": "#00225a",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#112e65",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
@@ -2605,7 +4157,7 @@
         "$value": "#4b0000",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#621009",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
@@ -2650,7 +4202,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -2695,7 +4247,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -2740,7 +4292,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -2785,7 +4337,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -2830,7 +4382,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -2875,7 +4427,7 @@
         "$value": "#76cee1",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#a4eeff",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
@@ -2920,7 +4472,7 @@
         "$value": "#00225a",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#112e65",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
@@ -2965,7 +4517,7 @@
         "$value": "#4b0000",
         "$type": "color"
       },
-      "bttn surface: Hover": {
+      "Bttn surface: Hover": {
         "$value": "#621009",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
@@ -2981,6 +4533,366 @@
       },
       "Label": {
         "$value": "Card Skin 16 - Light Ivory / Maroon Accents",
+        "$type": "string"
+      }
+    },
+    "Card Skin 17": {
+      "Surface": {
+        "$value": "#fef917",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Card Skin 17 - Spare",
+        "$type": "string"
+      }
+    },
+    "Card Skin 18": {
+      "Surface": {
+        "$value": "#fef918",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Card Skin 18 - Spare",
+        "$type": "string"
+      }
+    },
+    "Card Skin 19": {
+      "Surface": {
+        "$value": "#fef919",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Card Skin 19 - Spare",
+        "$type": "string"
+      }
+    },
+    "Card Skin 20": {
+      "Surface": {
+        "$value": "#fef920",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Card Skin 20 - Spare",
+        "$type": "string"
+      }
+    },
+    "Card Skin 21": {
+      "Surface": {
+        "$value": "#fef921",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Card Skin 21 - Spare",
+        "$type": "string"
+      }
+    },
+    "Card Skin 22": {
+      "Surface": {
+        "$value": "#fef922",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Card Skin 22 - Spare",
+        "$type": "string"
+      }
+    },
+    "Card Skin 23": {
+      "Surface": {
+        "$value": "#fef923",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Card Skin 23 - Spare",
+        "$type": "string"
+      }
+    },
+    "Card Skin 24": {
+      "Surface": {
+        "$value": "#fef924",
+        "$type": "color"
+      },
+      "On surface": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Heading": {
+        "$value": "#4b4639",
+        "$type": "color"
+      },
+      "Link: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Link: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn surface: Default": {
+        "$value": "#4b0000",
+        "$type": "color"
+      },
+      "Bttn surface: Hover": {
+        "$value": "#621009",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
+      },
+      "Bttn on surface: Default": {
+        "$value": "#fef9ef",
+        "$type": "color"
+      },
+      "Bttn on surface: Hover": {
+        "$value": "#ffffff",
+        "$type": "color",
+        "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
+      },
+      "Label": {
+        "$value": "Card Skin 24 - Spare",
         "$type": "string"
       }
     }
