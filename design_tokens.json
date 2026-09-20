@@ -1909,11 +1909,11 @@
         "$type": "color"
       },
       "On surface": {
-        "$value": "#4b4639",
+        "$value": "#474744",
         "$type": "color"
       },
       "Heading": {
-        "$value": "#4b4639",
+        "$value": "#474744",
         "$type": "color"
       },
       "Link: Default": {
@@ -4895,6 +4895,1037 @@
         "$value": "Card Skin 24 - Spare",
         "$type": "string"
       }
+    }
+  },
+  "positive value": {
+    "$value": "#00581e",
+    "$type": "color"
+  },
+  "Success Container": {
+    "$value": "#34c759",
+    "$type": "color"
+  },
+  "negative value": {
+    "$value": "#dc3545",
+    "$type": "color"
+  },
+  "incumbent font": {
+    "$value": "#29ccdf",
+    "$type": "color"
+  },
+  "entrant font": {
+    "$value": "#ffd600",
+    "$type": "color"
+  },
+  "neutral value light": {
+    "$value": "#e2e2e2",
+    "$type": "color"
+  },
+  "neutral value mid": {
+    "$value": "#777777",
+    "$type": "color"
+  },
+  "neutral value": {
+    "$value": "#4b4b4b",
+    "$type": "color"
+  },
+  "neutral value dark": {
+    "$value": "#1b1b1b",
+    "$type": "color"
+  },
+  "attention": {
+    "$value": "#ff00aa",
+    "$type": "color"
+  },
+  "Focus": {
+    "$value": "#0058ac",
+    "$type": "color"
+  },
+  "textStyles": {
+    "Diagramming fonts-Title Med": {
+      "$value": {
+        "fontFamily": "Bebas Neue",
+        "fontWeight": "Regular",
+        "fontSize": 40,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Diagramming fonts-Text med": {
+      "$value": {
+        "fontFamily": "Geist Mono",
+        "fontWeight": "Regular",
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Display L": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 56,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 114.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -0.25
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Display M": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 44,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 117.99999475479126
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Display S": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 36,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 110.00000238418579
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Headline L": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 30,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 110.00000238418579
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Headline M": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 28,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 110.00000238418579
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Headline S | L Body Copy": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 24,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 125
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to Large Body Copy on Gold Front Typography"
+    },
+    "Type Scale Styles-Baseline-Title L": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 22,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 126.99999809265137
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Title M | L Body Copy mobile": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 20,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 125
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to Large Body Copy mobile on Gold Front Typography"
+    },
+    "Type Scale Styles-Baseline-Title S": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 145.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -0.20000000298023224
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Label L": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Label M": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 14,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.20000000298023224
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Label S": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 12,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.4000000059604645
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Body L | Body Copy": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 145.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -2
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to Body Copy on Gold Front Typography"
+    },
+    "Type Scale Styles-Baseline-Body M": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 14,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 133.00000429153442
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.25
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Body S": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 12,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 133.00000429153442
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.4000000059604645
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Quote L": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Regular",
+        "fontSize": 36,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 133.00000429153442
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.5
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Quote M": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 22,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 133.00000429153442
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.25
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Baseline-Quote S": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Book",
+        "fontSize": 12,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 133.00000429153442
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.4000000059604645
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Emphasis-Display L Emphasized": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Bold",
+        "fontSize": 56,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 114.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -0.25
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Emphasis-Display M Emphasized": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Bold",
+        "fontSize": 44,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 117.99999475479126
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Emphasis-Display S Emphasized | H4": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Bold",
+        "fontSize": 36,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 110.00000238418579
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to H4 on Gold Front Typography"
+    },
+    "Type Scale Styles-Emphasis-Headline L Emphasized | H4 mobile": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Bold",
+        "fontSize": 30,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 110.00000238418579
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to H4 mobile on Gold Front Typography"
+    },
+    "Type Scale Styles-Emphasis-Headline M Emphasized | H5": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Bold",
+        "fontSize": 28,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 104.99999523162842
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to H5 on Gold Front Typography"
+    },
+    "Type Scale Styles-Emphasis-Headline S Emphasized | H5 mobile": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Bold",
+        "fontSize": 24,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 104.99999523162842
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to H5 mobile on Gold Front Typography"
+    },
+    "Type Scale Styles-Emphasis-Title L Emphasized": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Medium",
+        "fontSize": 22,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 126.99999809265137
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Emphasis-Title M Emphasized | H6": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Bold",
+        "fontSize": 20,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 125
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to H6 on Gold Front Typography"
+    },
+    "Type Scale Styles-Emphasis-Title S Emphasized": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Medium",
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 145.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -0.20000000298023224
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Emphasis-Label L Emphasized | Bttn": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Medium",
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to Button on Gold Front Typography"
+    },
+    "Type Scale Styles-Emphasis-Label M Emphasized | Eyebrow": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Medium",
+        "fontSize": 14,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 4
+        },
+        "textCase": "UPPER",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to Eyebrow on Gold Front Typography"
+    },
+    "Type Scale Styles-Emphasis-Label S Emphasized": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Medium",
+        "fontSize": 12,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.4000000059604645
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Emphasis-Body L Emphasized": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Medium",
+        "fontSize": 16,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 145.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -2
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Emphasis-Body M Emphasized": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Medium",
+        "fontSize": 14,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 133.00000429153442
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.25
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Emphasis-Body S Emphasized": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Medium",
+        "fontSize": 12,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 133.00000429153442
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.4000000059604645
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Type Scale Styles-Emphasis-Quote L Emphasized | S Quote": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to Small Quote on Gold Front Typography"
+    },
+    "Type Scale Styles-Emphasis-Quote M Emphasized | Quote mobile": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 40,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to Quote mobile on Gold Front Typography"
+    },
+    "Type Scale Styles-Emphasis-Quote S Emphasized": {
+      "$value": {
+        "fontFamily": "CircularXX",
+        "fontWeight": "Medium",
+        "fontSize": 12,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 133.00000429153442
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.4000000059604645
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Editorial Styles-Macrocosmic": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 392,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Editorial Styles-Cosmic": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 304,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Editorial Styles-Galactic | L Stats": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 256,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to Large Stats on Gold Front Typography"
+    },
+    "Editorial Styles-Astronomical": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 224,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Editorial Styles-Celestial | L Stats mobile": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 200,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to Large Stats mobile on Gold Front Typography"
+    },
+    "Editorial Styles-Divine | H1": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 192,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to H1 on Gold Front Typography"
+    },
+    "Editorial Styles-Eldritch": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 168,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Editorial Styles-Kaiju": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 152,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Editorial Styles-Gargantuan": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 128,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.15000000596046448
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Editorial Styles-Colossal | H2": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 120,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to H2 on Gold Front Typography"
+    },
+    "Editorial Styles-Ginormous": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 112,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.15000000596046448
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Editorial Styles-Vast": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 96,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0.10000000149011612
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography"
+    },
+    "Editorial Styles-Massive | H3": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 84,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to H3 on Gold Front Typography"
+    },
+    "Editorial Styles-Huge | H1 mobile": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 80,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to H1 mobile on Gold Front Typography"
+    },
+    "Editorial Styles-Spacious | H2 mobile": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 64,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to H2 mobile on Gold Front Typography"
+    },
+    "Editorial Styles-Ample | H3 mobile": {
+      "$value": {
+        "fontFamily": "Boldine",
+        "fontWeight": "Regular",
+        "fontSize": 48,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 80.0000011920929
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "textCase": "ORIGINAL",
+        "textDecoration": "NONE"
+      },
+      "$type": "typography",
+      "$description": "Corresponds to H3 mobile on Gold Front Typography"
     }
   }
 }
