@@ -935,7 +935,7 @@
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": -2,
+          "$value": 0.25,
           "$type": "number"
         }
       },
@@ -957,7 +957,7 @@
           "$type": "number"
         },
         "letter-spacing": {
-          "$value": -2,
+          "$value": 0.25,
           "$type": "number"
         }
       },
