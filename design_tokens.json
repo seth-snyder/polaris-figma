@@ -330,6 +330,12 @@
         "$type": "color"
       }
     },
+    "dark maroon": {
+      "20": {
+        "$value": "#621009",
+        "$type": "color"
+      }
+    },
     "midnight black": {
       "30": {
         "$value": "#4b4639",
@@ -337,12 +343,6 @@
       },
       "35": {
         "$value": "#575245",
-        "$type": "color"
-      }
-    },
-    "dark maroon": {
-      "20": {
-        "$value": "#621009",
         "$type": "color"
       }
     },
@@ -2580,41 +2580,41 @@
     },
     "Combo 23": {
       "Surface": {
-        "$value": "#4b0023",
+        "$value": "#ff5449",
         "$type": "color"
       },
       "On surface": {
-        "$value": "#76cee1",
+        "$value": "#4b0000",
         "$type": "color"
       },
       "Heading": {
-        "$value": "#76cee1",
+        "$value": "#4b0000",
         "$type": "color"
       },
       "Link: Default": {
-        "$value": "#ffeed4",
+        "$value": "#4b0000",
         "$type": "color"
       },
       "Link: Hover": {
-        "$value": "#fef9ef",
+        "$value": "#721c12",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
       },
       "Bttn surface: Default": {
-        "$value": "#ffeed4",
+        "$value": "#4b0000",
         "$type": "color"
       },
       "Bttn surface: Hover": {
-        "$value": "#fef9ef",
+        "$value": "#721c12",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
       },
       "Bttn on surface: Default": {
-        "$value": "#4b0000",
+        "$value": "#ff5449",
         "$type": "color"
       },
       "Bttn on surface: Hover": {
-        "$value": "#621009",
+        "$value": "#ffdad5",
         "$type": "color",
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
@@ -3701,7 +3701,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Combo D23 - Spare",
+        "$value": "Combo D23 - Power Red 60",
         "$type": "string"
       }
     },
