@@ -1623,7 +1623,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo 1 - Deep Navy /  Cream and Blue",
+        "$value": "Deep Navy /  Cream and Blue  - T1",
         "$type": "string"
       }
     },
@@ -1668,7 +1668,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Combo 2 - Dark Maroon / Cream and Blue",
+        "$value": "Dark Maroon / Cream and Blue - T2",
         "$type": "string"
       }
     },
@@ -1715,7 +1715,7 @@
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
       },
       "Label": {
-        "$value": "Combo 3 - Breakthrough Blue / Navy Accents",
+        "$value": "Breakthrough Blue / Navy Accents - T3",
         "$type": "string"
       }
     },
@@ -1762,7 +1762,7 @@
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
       },
       "Label": {
-        "$value": "Combo 4 - Breakthrough Blue / Maroon Accents",
+        "$value": "Breakthrough Blue / Maroon Accents - T4",
         "$type": "string"
       }
     },
@@ -1807,7 +1807,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Combo 5 - Warm Cream / Navy Accents",
+        "$value": "Warm Cream / Navy Accents - T5",
         "$type": "string"
       }
     },
@@ -1852,7 +1852,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Combo 6 - Warm Cream / Maroon Accents",
+        "$value": "Warm Cream / Maroon Accents - T6",
         "$type": "string"
       }
     },
@@ -1899,7 +1899,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 98"
       },
       "Label": {
-        "$value": "Combo 7 - White / Navy Accents",
+        "$value": "White / Navy Accents - T7",
         "$type": "string"
       }
     },
@@ -1944,7 +1944,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 98"
       },
       "Label": {
-        "$value": "Combo 8 - White / Maroon Accents",
+        "$value": "White / Maroon Accents - T8",
         "$type": "string"
       }
     },
@@ -1989,7 +1989,7 @@
         "$description": "Corresponds to MD3:E scales neutrals Charcoal Grey 30"
       },
       "Label": {
-        "$value": "Combo 9 - Charcoal Grey / Cream and Blue",
+        "$value": "Charcoal Grey / Cream and Blue - T9",
         "$type": "string"
       }
     },
@@ -2034,7 +2034,7 @@
         "$description": "Corresponds to MD3:E scales neutrals Charcoal Grey 30"
       },
       "Label": {
-        "$value": "Combo 10 - Charcoal Grey / White and Blue",
+        "$value": "Charcoal Grey / White and Blue - T10",
         "$type": "string"
       }
     },
@@ -2079,7 +2079,7 @@
         "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
       },
       "Label": {
-        "$value": "Combo 11 - Midnight Black / Cream and Blue",
+        "$value": "Midnight Black / Cream and Blue - T11",
         "$type": "string"
       }
     },
@@ -2124,7 +2124,7 @@
         "$description": "Corresponds to MD3:E scales neutrals Midnight Black 20"
       },
       "Label": {
-        "$value": "Combo 12 - Midnight Black / White and Blue",
+        "$value": "Midnight Black / White and Blue - T12",
         "$type": "string"
       }
     },
@@ -2169,7 +2169,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo 13 - Deep Navy / White and Blue",
+        "$value": "Deep Navy / White and Blue - T13",
         "$type": "string"
       }
     },
@@ -2214,7 +2214,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Combo 14 - Dark Maroon / White and Blue",
+        "$value": "Dark Maroon / White and Blue - T14",
         "$type": "string"
       }
     },
@@ -2259,7 +2259,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Combo 15 - Light Ivory / Navy Accents",
+        "$value": "Light Ivory / Navy Accents - T15",
         "$type": "string"
       }
     },
@@ -2304,7 +2304,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Combo 16 - Light Ivory / Maroon Accents",
+        "$value": "Light Ivory / Maroon Accents - T16",
         "$type": "string"
       }
     },
@@ -2349,7 +2349,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo 17 - Deep Navy 25 / Cream and Blue",
+        "$value": "Deep Navy 25 / Cream and Blue - T17",
         "$type": "string"
       }
     },
@@ -2394,7 +2394,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo 18 - Dark Maroon 25 / Warm Cream and Blue",
+        "$value": "Dark Maroon 25 / Warm Cream and Blue - T18",
         "$type": "string"
       }
     },
@@ -2439,7 +2439,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo 19 - Deep Navy / Ivory and Blue",
+        "$value": "Deep Navy / Ivory and Blue - T19",
         "$type": "string"
       }
     },
@@ -2484,7 +2484,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Combo 20 - Dark Maroon / Ivory and Blue",
+        "$value": "Dark Maroon / Ivory and Blue - T20",
         "$type": "string"
       }
     },
@@ -2529,7 +2529,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo 21 - Deep Navy / Blue and Cream",
+        "$value": "Deep Navy / Blue and Cream - T21",
         "$type": "string"
       }
     },
@@ -2574,7 +2574,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Combo 22 - Dark Maroon / Blue and Cream",
+        "$value": "Dark Maroon / Blue and Cream - T22",
         "$type": "string"
       }
     },
@@ -2619,7 +2619,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Combo 23 - Spare",
+        "$value": "Power Red 60 - T23",
         "$type": "string"
       }
     },
@@ -2664,7 +2664,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Combo 24 - Spare",
+        "$value": "Spare - T24",
         "$type": "string"
       }
     }
@@ -2711,7 +2711,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D1 - Deep Navy / Warm Cream Heading",
+        "$value": "Deep Navy / Warm Cream Heading - D1",
         "$type": "string"
       }
     },
@@ -2756,7 +2756,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D2 - Dark Maroon / Warm Cream Heading",
+        "$value": "Dark Maroon / Warm Cream Heading - D2",
         "$type": "string"
       }
     },
@@ -2801,7 +2801,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D3 - Breakthrough Blue / Navy Only",
+        "$value": "Breakthrough Blue / Navy Only - D3",
         "$type": "string"
       }
     },
@@ -2846,7 +2846,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D4 - Breakthrough Blue / Maroon Only",
+        "$value": "Breakthrough Blue / Maroon Only - D4",
         "$type": "string"
       }
     },
@@ -2891,7 +2891,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D5 - Light Ivory / Navy Only",
+        "$value": "Light Ivory / Navy Only - D5",
         "$type": "string"
       }
     },
@@ -2936,7 +2936,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D6 - Light Ivory / Maroon Only",
+        "$value": "Light Ivory / Maroon Only - D6",
         "$type": "string"
       }
     },
@@ -2981,7 +2981,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D7 - Warm Cream / Navy and Blue Accents",
+        "$value": "Warm Cream / Navy and Blue Accents - D7",
         "$type": "string"
       }
     },
@@ -3026,7 +3026,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D8 - Warm Cream / Maroon and Red Accents",
+        "$value": "Warm Cream / Maroon and Red Accents - D8",
         "$type": "string"
       }
     },
@@ -3071,7 +3071,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D9 - Dark Maroon / Warm Cream and Blue Accents",
+        "$value": "Dark Maroon / Warm Cream and Blue Accents - D9",
         "$type": "string"
       }
     },
@@ -3116,7 +3116,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D10 - Dark Maroon / Warm Cream and Red Accents",
+        "$value": "Dark Maroon / Warm Cream and Red Accents - D10",
         "$type": "string"
       }
     },
@@ -3161,7 +3161,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D11 - Power Red 60 / Maroon Only",
+        "$value": "Power Red 60 / Maroon Only - D11",
         "$type": "string"
       }
     },
@@ -3206,7 +3206,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D12 - Deep Navy / Breakthrough Blue Only",
+        "$value": "Deep Navy / Breakthrough Blue Only - D12",
         "$type": "string"
       }
     },
@@ -3251,7 +3251,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D13 - Dark Maroon / Breakthrough Blue Only",
+        "$value": "Dark Maroon / Breakthrough Blue Only - D13",
         "$type": "string"
       }
     },
@@ -3296,7 +3296,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D14 - Dark Maroon / Blue and Red Accents",
+        "$value": "Dark Maroon / Blue and Red Accents - D14",
         "$type": "string"
       }
     },
@@ -3341,7 +3341,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Combo D15 - Warm Cream 90 / Navy Accents",
+        "$value": "Warm Cream 90 / Navy Accents - D15",
         "$type": "string"
       }
     },
@@ -3386,7 +3386,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D16 - Dark Maroon / Warm Cream and Red 60 Accents",
+        "$value": "Dark Maroon / Warm Cream and Red 60 Accents - D16",
         "$type": "string"
       }
     },
@@ -3431,7 +3431,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D17 - Deep Navy / Cream and Blue",
+        "$value": "Deep Navy / Cream and Blue - D17",
         "$type": "string"
       }
     },
@@ -3476,7 +3476,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Combo D18 - Light Ivory / Navy Heading",
+        "$value": "Light Ivory / Navy Heading - D18",
         "$type": "string"
       }
     },
@@ -3521,7 +3521,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Combo D19 - Dark Maroon / Breakthrough Blue Heading",
+        "$value": "Dark Maroon / Breakthrough Blue Heading - D19",
         "$type": "string"
       }
     },
@@ -3566,7 +3566,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Combo D20 - Warm Cream / Maroon Heading",
+        "$value": "Warm Cream / Maroon Heading - D20",
         "$type": "string"
       }
     },
@@ -3611,7 +3611,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Combo D21 - Warm Cream / Navy Heading",
+        "$value": "Warm Cream / Navy Heading - D21",
         "$type": "string"
       }
     },
@@ -3656,7 +3656,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Combo D22 - Spare",
+        "$value": "Spare - D22",
         "$type": "string"
       }
     },
@@ -3701,7 +3701,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Combo D23 - Power Red 60",
+        "$value": "Spare - D23",
         "$type": "string"
       }
     },
@@ -3746,7 +3746,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Combo D24 - Spare",
+        "$value": "Spare - D24",
         "$type": "string"
       }
     }
@@ -3851,7 +3851,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Card Skin 1 - Deep Navy / Warm Cream",
+        "$value": "Deep Navy / Warm Cream - S1",
         "$type": "string"
       }
     },
@@ -3896,7 +3896,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Card Skin 2 - Dark Maroon / Warm Cream",
+        "$value": "Dark Maroon / Warm Cream - S2",
         "$type": "string"
       }
     },
@@ -3943,7 +3943,7 @@
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
       },
       "Label": {
-        "$value": "Card Skin 3 - Breakthrough Blue / Navy Accents",
+        "$value": "Breakthrough Blue / Navy Accents - S3",
         "$type": "string"
       }
     },
@@ -3990,7 +3990,7 @@
         "$description": "Corresponds to MD3:E scales brand Breakout Blue 90"
       },
       "Label": {
-        "$value": "Card Skin 4 - Breakthrough Blue / Maroon Accents",
+        "$value": "Breakthrough Blue / Maroon Accents - S4",
         "$type": "string"
       }
     },
@@ -4035,7 +4035,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Card Skin 5 - Warm Cream / Navy Accents",
+        "$value": "Warm Cream / Navy Accents - S5",
         "$type": "string"
       }
     },
@@ -4080,7 +4080,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Card Skin 6 - Warm Cream / Maroon Accents",
+        "$value": "Warm Cream / Maroon Accents - S6",
         "$type": "string"
       }
     },
@@ -4127,7 +4127,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 98"
       },
       "Label": {
-        "$value": "Card Skin 7 - White / Navy Accents",
+        "$value": "White / Navy Accents - S7",
         "$type": "string"
       }
     },
@@ -4172,7 +4172,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 98"
       },
       "Label": {
-        "$value": "Card Skin 8 - White / Maroon Accents",
+        "$value": "White / Maroon Accents - S8",
         "$type": "string"
       }
     },
@@ -4217,7 +4217,7 @@
         "$description": "Corresponds to MD3:E scales brand Deep Navy 20"
       },
       "Label": {
-        "$value": "Card Skin 9 - Charcoal Grey / Warm Cream",
+        "$value": "Charcoal Grey / Warm Cream - S9",
         "$type": "string"
       }
     },
@@ -4262,7 +4262,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Card Skin 10 - Charcoal Grey / White",
+        "$value": "Charcoal Grey / White - S10",
         "$type": "string"
       }
     },
@@ -4307,7 +4307,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Card Skin 11 - Midnight Black / Warm Cream",
+        "$value": "Midnight Black / Warm Cream - S11",
         "$type": "string"
       }
     },
@@ -4352,7 +4352,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Card Skin 12 - Midnight Black / White",
+        "$value": "Midnight Black / White - S12",
         "$type": "string"
       }
     },
@@ -4397,7 +4397,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Card Skin 13 - Deep Navy / White",
+        "$value": "Deep Navy / White - S13",
         "$type": "string"
       }
     },
@@ -4442,7 +4442,7 @@
         "$description": "Corresponds to MD3:E scales brand Dark Maroon 20"
       },
       "Label": {
-        "$value": "Card Skin 14 - Dark Maroon / White",
+        "$value": "Dark Maroon / White - S14",
         "$type": "string"
       }
     },
@@ -4487,7 +4487,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Card Skin 15 - Light Ivory / Navy Accents",
+        "$value": "Light Ivory / Navy Accents - S15",
         "$type": "string"
       }
     },
@@ -4532,7 +4532,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Card Skin 16 - Light Ivory / Maroon Accents",
+        "$value": "Light Ivory / Maroon Accents - S16",
         "$type": "string"
       }
     },
@@ -4577,7 +4577,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Card Skin 17 - Spare",
+        "$value": "Spare - S17",
         "$type": "string"
       }
     },
@@ -4622,7 +4622,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Card Skin 18 - Spare",
+        "$value": "Spare - S18",
         "$type": "string"
       }
     },
@@ -4667,7 +4667,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Card Skin 19 - Spare",
+        "$value": "Spare - S19",
         "$type": "string"
       }
     },
@@ -4712,7 +4712,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Card Skin 20 - Spare",
+        "$value": "Spare - S20",
         "$type": "string"
       }
     },
@@ -4757,7 +4757,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Card Skin 21 - Spare",
+        "$value": "Spare - S21",
         "$type": "string"
       }
     },
@@ -4802,7 +4802,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Card Skin 22 - Spare",
+        "$value": "Spare - S22",
         "$type": "string"
       }
     },
@@ -4847,7 +4847,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Card Skin 23 - Spare",
+        "$value": "Spare - S23",
         "$type": "string"
       }
     },
@@ -4892,7 +4892,7 @@
         "$description": "Corresponds to MD3:E scales brand Warm Cream 98"
       },
       "Label": {
-        "$value": "Card Skin 24 - Spare",
+        "$value": "Spare - S24",
         "$type": "string"
       }
     }
